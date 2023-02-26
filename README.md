@@ -5,9 +5,9 @@
 <p>📖 Electronics and Communication Student in Bannari Amman Institute of Technology. <br>💡Interested to work in both Web Development and Core projects. <br>🎵Love to listen podcasts & songs,🎥watch movies, 🎮play games in chilling time!</p>
 
 <h3> About my interests </h3>
-🔭 I’m currently working on MERN Stack project
-🌱 Equivalently, I learn more about MERN, laravel 
-👯 I’m looking to collaborate on Open Source Projects based on MERN
+🔭 I’m currently working on MERN Stack project <br>
+🌱 Equivalently, I learn more about MERN, laravel <br>
+👯 I’m looking to collaborate on Open Source Projects based on MERN <br>
 ⚡ Fun fact: Working with Linux is lot more fun than Windows
 
 <h3> Social Profiles </h3>
