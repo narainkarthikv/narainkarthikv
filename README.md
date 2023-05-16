@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Narain%20Karthik%20V❗&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome❗&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
 ## Hi there <img style="display: block;-webkit-user-select: none;margin: auto;background-color: black;" src="https://github.com/narainkarthikv/narainkarthikv/blob/main/wave.gif" height="25px" width="25px"/> Narain Karthik's <a href="https://www.github.com/narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 20px"></a>
 
 
@@ -9,7 +9,7 @@
 
 ### 😍 About my interests 
 🔭 I’m currently working on MERN Stack Application <br>
-🌱 Equivalently, I learn more about MERN stack, Linux <br>
+🌱 Equivalently, I learn more about MERN stack, Linux, Python Libraries <br>
 👯 I’m looking to collaborate on Open Source Projects based on MERN, Debian packages <br>
 ⚡ Fun fact: Working with Linux is lot more fun than Windows
 
