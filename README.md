@@ -16,7 +16,7 @@
 ### 😍 About my interests 
 🔭 I’m currently working on MERN Stack Applications <br>
 🌱 Equivalently, I learn more about MERN stack, Linux <br>
-👯 I’m looking to collaborate on Open Source Projects based on MERN stack, Debian packages <br>
+👯 I’m looking to collaborate on Open Source Projects based on MERN stack<br>
 ⚡ Fun fact: Working with Linux is lot more fun than Windows
 
 ### 📫 Social Profiles
