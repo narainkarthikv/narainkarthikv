@@ -10,7 +10,7 @@
 <br>
 💡 Interested to work in Full Stack Web Development. 
 <br>
-🎵 Love to listen podcasts & songs,🎥watch movies, 🎮play games in chilling time!
+📘 Reading books,🎵 Love to listen podcasts & songs,🎥 Watch movies, 🎮 Play games in chilling time!
 
 
 ### 😍 About my interests 
