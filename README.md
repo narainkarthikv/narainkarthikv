@@ -1,23 +1,25 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome❗&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
-## Hi there!!:) <!-- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: black;" src="https://github.com/narainkarthikv/narainkarthikv/blob/main/wave.gif" height="25px" width="25px"/> --> Narain Karthik's <a href="https://www.github.com/narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 20px"></a>
+## Hi there!!:) <!-- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: black;" src="https://github.com/narainkarthikv/narainkarthikv/blob/main/wave.gif" height="25px" width="25px"/> --> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P210BBGA)
 
 
 
-### 🙋 Know About me?! <a href="https://narainkarthikv.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)" style="border-radius: 20px"></a>
+### 🙋 Know About me?! <a href="https://narainkarthikv.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)" style="border-radius: 20px"></a> 
 
 
-📖 Electronics and Communication Student in Bannari Amman Institute of Technology. 
+📖 Web Developer, UI/UX Designer, Content Creator
 <br>
-💡 Interested to work in Full Stack Web Development. 
+💡 Interested to work in Web Development, Video Editing, Content Writing
 <br>
-📘 Reading books,🎵 Love to listen podcasts & songs,🎥 Watch movies, 🎮 Play games in chilling time!
+🪫 Electronics Hobbyist 
+<br>
+📘 Love to Read books,🎵 Listen to Podcasts & Songs,🎥 Watch Movies, 🎮 Play games in chilling time!
 
 
 ### 😍 About my interests 
-🔭 I’m currently working on MERN Stack Applications <br>
-🌱 Equivalently, I learn more about MERN stack, Linux <br>
-👯 I’m looking to collaborate on Open Source Projects based on MERN stack<br>
-⚡ Fun fact: Working with Linux is lot more fun than Windows
+🔭 I’m currently working on Content Creation, Web Development & Design <br>
+🌱 Equivalently, I learn more about Linux and Electronics <br>
+👯 I’m looking to collaborate on Open Source Projects<br>
+⚡ Fun fact: Working with Linux is a lot more fun than Windows
 
 ### 📫 Social Profiles
 
@@ -29,7 +31,7 @@
 
 ### ⌨️ Programming Skills
 
-### <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 20px"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 20px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 20px"> 
+### <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 20px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 20px"> 
 
 ### 🌟 Featured Projects
 
