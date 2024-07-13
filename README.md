@@ -1,7 +1,8 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome❗&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome❗&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners) -->
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: black;" src="https://github.com/narainkarthikv/narainkarthikv/blob/main/narainkarthikv-github-banner.png" height="200px" width="1000px"/>
+
 ## Hi there!!:) <!-- <img style="display: block;-webkit-user-select: none;margin: auto;background-color: black;" src="https://github.com/narainkarthikv/narainkarthikv/blob/main/wave.gif" height="25px" width="25px"/> --> ![](https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen)
-
-
 
 ### 🙋 Know About me?! <a href="https://narainkarthikv.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)" style="border-radius: 20px"></a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P210BBGA)
 
