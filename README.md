@@ -32,7 +32,7 @@
 
 <details>
   
-<summary>More ⚡</summary>
+<summary>Need to Know More about me? 🔎</summary>
   
 ### 💻 My Tech Stack
 
