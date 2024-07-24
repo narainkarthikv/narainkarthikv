@@ -62,9 +62,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://narainkarthikv-fit-track.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/fit-track.jpg" height="75px" width="75px" target="_blank"/></a>
-  <a href="https://narainkarthikv-sticky-memo.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/sticky-memo.png" height="75px" width="75px" target="_blank"/></a>
-  <a href="https://narainkarthikv.github.io/Nmoji"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/Nmoji.jpg" height="75px" width="75px" target="_blank"/></a>
+  <a href="https://narainkarthikv-fit-track.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" height="75px" width="75px" target="_blank"/></a>
+  <a href="https://narainkarthikv-sticky-memo.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.png" height="75px" width="75px" target="_blank"/></a>
+  <a href="https://narainkarthikv.github.io/Nmoji"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/Nmoji.jpg" height="75px" width="75px" target="_blank"/></a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=blueberry&count_private=true&hide_border=true&line_height=20)
@@ -72,7 +72,7 @@
 
 </details>
 
-![SVG Banners](https://github.com/narainkarthikv/narainkarthikv/blob/main/wavy-footer.svg)
+![SVG Banners](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wavy-footer.svg)
 
 <!-- 
 
