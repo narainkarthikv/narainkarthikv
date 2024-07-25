@@ -63,9 +63,9 @@
 
 <p align="center">
   <a href="https://narainkarthikv-fit-track.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" height="75px" width="75px" target="_blank"/></a>
-  <a href="https://narainkarthikv-sticky-memo.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.png" height="75px" width="75px" target="_blank"/></a>
+  <a href="https://narainkarthikv-sticky-memo.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" height="75px" width="75px" target="_blank"/></a>
   <a href="https://nmoji.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" height="75px" width="75px" target="_blank"/></a>
-  <a href="https://contribution-cards.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.png" height="75px" width="75px" target="_blank"/></a>
+  <a href="https://contribution-cards.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" height="75px" width="75px" target="_blank"/></a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=blueberry&count_private=true&hide_border=true&line_height=20)
