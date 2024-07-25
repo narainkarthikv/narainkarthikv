@@ -25,12 +25,13 @@
   😍 My Interests 
 </h3>
 
-🔭 I’m currently working on Content Creation, Web Development & Design  
-🌱 Equivalently, I learn more about Linux and Electronics  
-👯 I’m looking to collaborate on Open Source Projects  
-⚡ Fun fact: Working with Linux is a lot more fun than Windows
+🔭 I’m currently working on Content Creation, Web Development & UI/UX Design  
+🌱 Equivalently, I learn more about Linux & Electronics  
+👯 I’m looking to collaborate on Creative Ideas  
+⚡ Fun fact: Working with Linux is lot more fun than Windows
 
 <details>
+  
 <summary>Need to Know More about me? 🔎</summary>
 
 <h3 align="center">
