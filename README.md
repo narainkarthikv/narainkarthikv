@@ -55,10 +55,10 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,express,react,nodejs,figma,bootstrap,docker,kubernetes,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,express,react,nodejs,figma,bootstrap,materialui," />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,ansible,postman,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,postman,notion,linux,docker,kubernetes,githubactions" />
   </a>
 </p>
 
