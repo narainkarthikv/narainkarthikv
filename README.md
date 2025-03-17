@@ -89,6 +89,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true)
 </details>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
 
 ![SVG Banners](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wavy-footer.svg)
