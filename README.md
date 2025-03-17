@@ -13,22 +13,22 @@
 ![](https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen)
 
 <h3 align="left">
-  🧑‍🏫 About me
+  🧑‍🏫 About Me
 </h3>
 
-📖 Web Developer, UI/UX Designer, Content Creator  
-💡 Interested in Video Editing, Graphics Designing  
-🪫 Electronics Hobbyist  
-📘 Love to Read books, 🎵 Listen to Podcasts & Songs, 🎥 Watch Movies, 🎮 Play games in chilling time!
+📖 Hi there! I'm a passionate Web Developer, UI/UX Designer, and Content Creator.  
+💡 I thrive on creativity and have a strong interest in Video Editing and Graphics Designing.  
+🪫 I'm also an Electronics Hobbyist, always tinkering with new projects.  
+📘 In my downtime, you'll find me immersed in books, 🎵 grooving to podcasts and songs, 🎥 enjoying movies, or 🎮 gaming.
 
 <h3 align="left">
   😍 My Interests 
 </h3>
 
-🔭 I’m currently working on Content Creation, Web Development & UI/UX Design  
-🌱 Equivalently, I learn more about Linux & Electronics  
-👯 I’m looking to collaborate on Creative Ideas  
-⚡ Fun fact: Working with Linux is lot more fun than Windows
+🔭 Currently, I'm diving deep into Content Creation, Web Development, and UI/UX Design.  
+🌱 I'm also expanding my knowledge in Cloud Computing, Linux and Electronics.  
+👯 I'm eager to collaborate on innovative and creative ideas.  
+⚡ Fun fact: I find working with Linux way more exciting than Windows!
 
 <details>
   
@@ -40,7 +40,7 @@
 
   <p align="center">
       <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://narainkarthikv.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="border-radius: 20px"></a>
+      <a href="https://narainkarthik.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="border-radius: 20px"></a>
       <a href="https://www.gitlab.com/narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius: 20px"></a>
       <a href="https://leetcode.com/Narainkarthik31/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 20px"></a>
       <a href="https://www.codechef.com/users/narainv" target="_blank"> <a href="https://www.geeksforgeeks.org/user/narainkarthik812/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" style="border-radius: 20px"></a>
@@ -54,12 +54,26 @@
 </h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mongodb,express,react,nodejs,figma,bootstrap,materialui," />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,postman,notion,linux,docker,kubernetes,githubactions" />
-  </a>
+  <table align="center">
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Cloud</th>
+      <th>Database</th>
+      <th>CI/CD</th>
+      <th>Tools</th>
+      <th>OS</th>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,bootstrap,materialui,tailwind" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+      <td><img src="https://skillicons.dev/icons?i=azure" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,firebase" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /></td>
+      <td><img src="https://skillicons.dev/icons?i=ansible,postman,notion,docker,kubernetes" /></td>
+      <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /></td>
+    </tr>
+  </table>
 </p>
 
 <h3 align="center">
@@ -73,19 +87,18 @@
   <a href="https://contribution-cards.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" height="75px" width="75px" target="_blank"/></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true)
 </details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
 
 ![SVG Banners](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wavy-footer.svg)
 
-<!-- 
+<!--
 
 Need to tweak more features
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/824717510762299464?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/824717510762299464)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/824717510762299464)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/824717510762299464)](https://dev.discordprofiles.me/openspotify/824717510762299464) 
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/824717510762299464)](https://dev.discordprofiles.me/openspotify/824717510762299464)
 -->
