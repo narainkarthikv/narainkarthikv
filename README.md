@@ -12,7 +12,9 @@
 
 ![](https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen)
 
-<h3 align="left">
+---
+
+<h3 align="center">
   🧑‍🏫 About Me
 </h3>
 
@@ -21,33 +23,43 @@
 🪫 I'm also an Electronics Hobbyist, always tinkering with new projects.  
 📘 In my downtime, you'll find me immersed in books, 🎵 grooving to podcasts and songs, 🎥 enjoying movies, or 🎮 gaming.
 
-<h3 align="left">
+---
+
+<h3 align="center">
   😍 My Interests 
 </h3>
 
 🔭 Currently, I'm diving deep into Content Creation, Web Development, and UI/UX Design.  
-🌱 I'm also expanding my knowledge in Cloud Computing, Linux and Electronics.  
+🌱 I'm also expanding my knowledge in Cloud Computing, Linux, and Electronics.  
 👯 I'm eager to collaborate on innovative and creative ideas.  
 ⚡ Fun fact: I find working with Linux way more exciting than Windows!
 
-<details>
-  
-<summary>Need to Know More about me? 🔎</summary>
+---
 
 <h3 align="center">
-  📫 Social Profiles
+  🏆 GitHub Trophies
 </h3>
 
-  <p align="center">
-      <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://narainkarthik.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="border-radius: 20px"></a>
-      <a href="https://www.gitlab.com/narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://leetcode.com/Narainkarthik31/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 20px"></a>
-      <a href="https://www.codechef.com/users/narainv" target="_blank"> <a href="https://www.geeksforgeeks.org/user/narainkarthik812/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://steamcommunity.com/profiles/76561199130656975/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="border-radius: 20px"></a>
-      <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi?si=gM0fW9oQRkuFm7W3UuCE8A&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" style="border-radius: 20px"></a>
-  </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=narainkarthikv&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">
+  📫 Connect with Me
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://narainkarthik.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://www.gitlab.com/narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="https://leetcode.com/Narainkarthik31/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/user/narainkarthik812/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv" target="_blank"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
+  <a href="https://steamcommunity.com/profiles/76561199130656975/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi?si=gM0fW9oQRkuFm7W3UuCE8A&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
 
 <h3 align="center">
   💻 My Tech Stack
