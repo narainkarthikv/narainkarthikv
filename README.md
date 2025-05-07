@@ -10,7 +10,9 @@
   <a href="https://discord.gg/cb6tqTfk" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
 
@@ -18,21 +20,29 @@
   🧑‍🏫 About Me
 </h3>
 
-📖 Hi there! I'm a passionate Web Developer, UI/UX Designer, and Content Creator.  
-💡 I thrive on creativity and have a strong interest in Video Editing and Graphics Designing.  
-🪫 I'm also an Electronics Hobbyist, always tinkering with new projects.  
-📘 In my downtime, you'll find me immersed in books, 🎵 grooving to podcasts and songs, 🎥 enjoying movies, or 🎮 gaming.
+<p align="center">
+  📖 Hi there! I'm a passionate <strong>Web Developer</strong>, <strong>UI/UX Designer</strong>, and <strong>Content Creator</strong>.  
+  💡 I thrive on creativity and have a strong interest in <strong>Video Editing</strong> and <strong>Graphics Designing</strong>.  
+  🪫 I'm also an <strong>Electronics Hobbyist</strong>, always tinkering with new projects.  
+  📘 In my downtime, you'll find me immersed in <strong>books</strong>, 🎵 grooving to <strong>podcasts and songs</strong>, 🎥 enjoying <strong>movies</strong>, or 🎮 <strong>gaming</strong>.
+</p>
 
 ---
+
+<summary><h3 align="center">✨ Curious to Know More?...</h3></summary>
+<details>
+
 
 <h3 align="center">
   😍 My Interests 
 </h3>
 
-🔭 Currently, I'm diving deep into Content Creation, Web Development, and UI/UX Design.  
-🌱 I'm also expanding my knowledge in Cloud Computing, Linux, and Electronics.  
-👯 I'm eager to collaborate on innovative and creative ideas.  
-⚡ Fun fact: I find working with Linux way more exciting than Windows!
+<p align="center">
+  🔭 Currently, I'm diving deep into <strong>Content Creation</strong>, <strong>Web Development</strong>, and <strong>UI/UX Design</strong>.  
+  🌱 I'm also expanding my knowledge in <strong>Cloud Computing</strong>, <strong>Linux</strong>, and <strong>Electronics</strong>.  
+  👯 I'm eager to collaborate on <strong>innovative and creative ideas</strong>.  
+  ⚡ Fun fact: I find working with <strong>Linux</strong> way more exciting than <strong>Windows</strong>!
+</p>
 
 ---
 
@@ -61,6 +71,8 @@
   <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi?si=gM0fW9oQRkuFm7W3UuCE8A&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+---
+
 <h3 align="center">
   💻 My Tech Stack
 </h3>
@@ -88,6 +100,8 @@
   </table>
 </p>
 
+---
+
 <h3 align="center">
   🌟 Featured Projects
 </h3>
@@ -99,20 +113,11 @@
   <a href="https://contribution-cards.netlify.app/"> <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" height="75px" width="75px" target="_blank"/></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
-
-</details>
+---
 
 ![SVG Banners](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wavy-footer.svg)
-
-<!--
-
-Need to tweak more features
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/824717510762299464?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/824717510762299464)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/824717510762299464)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/824717510762299464)](https://dev.discordprofiles.me/openspotify/824717510762299464)
--->
