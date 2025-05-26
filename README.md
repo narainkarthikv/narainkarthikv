@@ -80,21 +80,35 @@
 <p align="center">
   <table align="center">
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Cloud</th>
-      <th>Database</th>
-      <th>CI/CD</th>
-      <th>Tools</th>
-      <th>OS</th>
+      <th>Category</th>
+      <th>Technologies</th>
     </tr>
     <tr>
+      <td>Frontend</td>
       <td><img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,bootstrap,materialui,tailwind" /></td>
+    </tr>
+    <tr>
+      <td>Backend</td>
       <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
-      <td><img src="https://skillicons.dev/icons?i=azure" /></td>
+    </tr>
+    <tr>
+      <td>Cloud</td>
+      <td><img src="https://skillicons.dev/icons?i=azure,gcp" /></td>
+    </tr>
+    <tr>
+      <td>Database</td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,firebase" /></td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
       <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /></td>
+    </tr>
+    <tr>
+      <td>Tools</td>
       <td><img src="https://skillicons.dev/icons?i=ansible,postman,notion,docker,kubernetes" /></td>
+    </tr>
+    <tr>
+      <td>OS</td>
       <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" /></td>
     </tr>
   </table>
