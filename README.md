@@ -12,6 +12,16 @@
   </p>
 </div>
 
+---
+
+# <div align="center">✨ Welcome to My Digital Playground! ✨</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</div>
+
+Hey there! I'm **NarainKarthik Vellingiri** (aka Wisdom Fox) — a passionate builder, lifelong learner, and digital nomad on a mission to make the web a more delightful place. Whether I'm crafting sleek UIs, automating cloud workflows, or tinkering with electronics, I bring curiosity and creativity to everything I do.
+
 ## <div align="left">🚀 Quick Bio</div>
 
 ```js
@@ -24,6 +34,17 @@ const wisdomFox = {
   funFact: "🐧 I find Linux more exciting than Windows!"
 };
 ```
+
+---
+
+## <div align="center">🟢 What I'm Up To Now</div>
+
+- 🌱 Currently learning: **AI-powered web apps, Next.js, and cloud-native DevOps**
+- 🛠️ Building: Side projects that blend creativity and code (see below!)
+- 🤝 Open to: Collaborations, freelance gigs, and cool tech chats!
+<!-- - ✍️ Writing: [Blog posts & guides](https://narainkarthik.me/blog) on web, cloud, and productivity -->
+
+---
 
 <summary>
 <h3>More about Myself</h3>
@@ -66,6 +87,8 @@ const wisdomFox = {
   </tr>
 </table>
 
+---
+
 ## <div align="center">🌟 Featured Projects</div>
 
 <p align="center">
@@ -83,6 +106,17 @@ const wisdomFox = {
   </a>
 </p>
 
+---
+
+## <div align="center">🤓 Fun Facts & Quirky Side</div>
+
+- 🦊 My spirit animal is a fox: clever, curious, and always up for a challenge!
+- 🧑‍🍳 I can cook a mean bowl of ramen (with a side of code, of course).
+- 🎧 My playlists are as eclectic as my projects — from synthwave to lo-fi.
+- 🏆 I believe in learning by doing, failing fast, and sharing what I learn.
+
+---
+
 ## <div align="center">📊 GitHub Activity</div>
 
 <p align="center">
@@ -95,6 +129,14 @@ const wisdomFox = {
 </p>
 
 </details>
+
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! 🚀<br>Let's build something amazing together.</h3>
+  <br>
+  
+</div>
 
 <div align="center">
   
