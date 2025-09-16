@@ -5,6 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+NarainKarthik+Vellingiri!;Web+Developer+%7C+Cloud%2FDevops+Enthusiast;Welcome+to+my+GitHub+Profile!)
 
   <p align="center">
+    <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
     <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
     <a href="https://www.patreon.com/user?u=72747187"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
     <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"></a>
@@ -20,16 +21,16 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 </div>
 
-Hey there! I'm **NarainKarthik Vellingiri** (aka Wisdom Fox) — a passionate builder, lifelong learner, and digital nomad on a mission to make the web a more delightful place. Whether I'm crafting sleek UIs, automating cloud workflows, or tinkering with electronics, I bring curiosity and creativity to everything I do.
+💫 Hey there! I’m NarainKarthik Vellingiri (aka 🦊 Wisdom Fox) — a passionate builder, lifelong learner, and 🌍 digital nomad on a mission to make the web a more delightful place. Whether I’m 🎨 crafting sleek UIs, ☁️ automating cloud workflows, or 🔧 tinkering with electronics, I bring endless curiosity and creativity to everything I do.
 
 ## <div align="left">🚀 Quick Bio</div>
 
 ```js
 const wisdomFox = {
-  title: "👨‍💻 Full Stack Developer & DevOps Enthusiast",
+  title: "👨‍💻 Full Stack Developer, Cloud & DevOps Enthusiast",
   location: "🌏 Digital Nomad",
-  passions: ["💻 Web Dev", "🎨 UI/UX", "☁️ Cloud Computing"],
-  hobbies: ["🔧 Electronics", "🎬 Video Editing", "🎮 Gaming"],
+  passions: ["💻 Web Dev", "🎨 UI/UX", "☁️ Cloud Computing", "⚙️ DevOps"],
+  hobbies: ["🔧 Electronics", "🎬 Video Editing", "🎮 Gaming", "📚 Reading Books"],
   currentFocus: "🚀 Building awesome web experiences",
   funFact: "🐧 I find Linux more exciting than Windows!"
 };
@@ -39,10 +40,10 @@ const wisdomFox = {
 
 ## <div align="center">🟢 What I'm Up To Now</div>
 
-- 🌱 Currently learning: **AI-powered web apps, Next.js, and cloud-native DevOps**
+- 🌱 Currently learning: **AI-powered web apps, DevOps and Cloud technologies**
 - 🛠️ Building: Side projects that blend creativity and code (see below!)
 - 🤝 Open to: Collaborations, freelance gigs, and cool tech chats!
-<!-- - ✍️ Writing: [Blog posts & guides](https://narainkarthik.me/blog) on web, cloud, and productivity -->
+<!-- - ✍️ Writing: [Blog posts & guides](https://narainkarthikv.space/blog) on web, cloud, and productivity -->
 
 ---
 
@@ -56,7 +57,6 @@ const wisdomFox = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://narainkarthik.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
   <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
@@ -75,15 +75,15 @@ const wisdomFox = {
 <table align="center">
   <tr>
     <td><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,bootstrap,materialui,tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,astro,react,figma,bootstrap,materialui,tailwind" /></td>
   </tr>
   <tr>
     <td><b>⚡ Backend & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,azure,gcp,mongodb,firebase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,azure,gcp,mongodb,firebase,postgres" /></td>
   </tr>
   <tr>
     <td><b>🛠️ DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,ansible,linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,ansible,linux" /></td>
   </tr>
 </table>
 
@@ -112,7 +112,6 @@ const wisdomFox = {
 
 - 🦊 My spirit animal is a fox: clever, curious, and always up for a challenge!
 - 🧑‍🍳 I can cook a mean bowl of ramen (with a side of code, of course).
-- 🎧 My playlists are as eclectic as my projects — from synthwave to lo-fi.
 - 🏆 I believe in learning by doing, failing fast, and sharing what I learn.
 
 ---
