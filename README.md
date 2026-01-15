@@ -1,32 +1,54 @@
-# <div align="center">[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Wisdom%20Fox&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)</div>
+<div align="center">
 
-<p align="center">
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Wisdom%20Fox&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
+
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
+</div>
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+NarainKarthik+Vellingiri!;Web+Developer+%7C+Cloud%2FDevOps+Enthusiast;Welcome+to+my+GitHub+Profile!)
 
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
   <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <a href="https://www.patreon.com/user?u=72747187"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
   <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" />
+
+</div>
 
 </div>
 
 ---
 
-# <div align="center">✨ Welcome to My Digital Playground ✨</div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
+    </td>
+    <td align="center" width="60%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjez2sc5umwskdatczxceb3xdi&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjez2sc5umwskdatczxceb3xdi&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-💫 Hey there! I’m **NarainKarthik Vellingiri** (aka 🦊 **Wisdom Fox**) — a passionate builder, lifelong learner, and 🌍 digital nomad on a mission to make the web a more delightful place.
+---
+
+💫 **Hey there!** I'm **NarainKarthik Vellingiri** (aka 🦊 **Wisdom Fox**) — a passionate builder, lifelong learner, and 🌍 digital nomad on a mission to make the web a more delightful place.
 
 Whether I’m 🎨 crafting sleek UIs, ☁️ automating cloud workflows, or 🔧 tinkering with electronics, I bring curiosity, clarity, and creativity to everything I do.
 
@@ -43,24 +65,23 @@ const wisdomFox = {
   currentFocus: "🚀 Building delightful web experiences",
   funFact: "🐧 Linux excites me more than Windows!"
 };
-````
+```
 
 ---
 
 ## 🟢 What I'm Up To Now
 
-* 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
-* 🛠️ Building: Creative, user-first side projects
-* 🤝 Open to: Collaboration, freelance & tech discussions
+- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
+- 🛠️ Building: Creative, user-first side projects
+- 🤝 Open to: Collaboration, freelance & tech discussions
 
 ---
 
 ## 🧠 Developer Mindset
 
-<div align="center">
+<div>
 
-> **“Build. Break. Learn. Repeat.”**
-> Great software is crafted through curiosity, discipline, and continuous iteration.
+> **“Build. Break. Learn. Repeat.”** > > Great software is crafted through curiosity, discipline, and continuous iteration.
 
 </div>
 
@@ -73,16 +94,22 @@ const wisdomFox = {
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
+
+</div>
 
 ---
 
 ## 🎮 Gaming & Coding
 
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
   <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
@@ -90,32 +117,20 @@ const wisdomFox = {
   <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
----
+</div>
 
-## 🎧 Chilling & Vibing
-
-<p align="center">
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjez2sc5umwskdatczxceb3xdi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)"/>
-</p>
-
----
 
 ## 💻 Tech Arsenal
 
-<table align="center">
-  <tr>
-    <td><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,astro,react,figma,bootstrap,materialui,tailwind" /></td>
-  </tr>
-  <tr>
-    <td><b>⚡ Backend & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,azure,gcp,mongodb,firebase,postgres" /></td>
-  </tr>
-  <tr>
-    <td><b>🛠️ DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,ansible,linux" /></td>
-  </tr>
-</table>
+<div align="center">
+
+| Category | Technologies |
+|----------|---|
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,figma,bootstrap,materialui,tailwind" /> |
+| **⚡ Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,azure,gcp,mongodb,firebase,postgres" /> |
+| **🛠️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,ansible,linux" /> |
+
+</div>
 
 ---
 
@@ -154,26 +169,36 @@ const wisdomFox = {
 
 ## 🤓 Fun Facts & Quirks
 
-* 🦊 Fox mindset: clever, curious, adaptive
-* 🧑‍🍳 Can cook ramen + ship code
-* 🏆 Learning by building & sharing
+<div>
+
+- 🦊 Fox mindset: clever, curious, adaptive
+- 🧑‍🍳 Can cook ramen + ship code
+- 🏆 Learning by building & sharing
+
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narainkarthikv&theme=tokyonight&no-frame=true&column=-1"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=narainkarthikv&theme=tokyonight&no-frame=true&column=-1)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=narainkarthikv&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=narainkarthikv&theme=tokyonight&hide_border=true&border_radius=12)
+
+</div>
 
 </details>
 
@@ -183,8 +208,9 @@ const wisdomFox = {
 
 ### 🚀 Let’s Build, Learn & Ship Together
 
-⭐ Star • 🤝 Collaborate • ☕ Support
-Great things are built one commit at a time.
+**⭐ Star • 🤝 Collaborate • ☕ Support**
+
+*Great things are built one commit at a time.*
 
 </div>
 
