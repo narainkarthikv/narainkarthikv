@@ -136,34 +136,46 @@ const wisdomFox = {
 
 ## 🌟 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
+<div align="center">
+  <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;max-width:1000px;">
+    <div style="flex:1 1 200px;max-width:220px;text-align:center">
       <a href="https://wisdomfox-fit-track.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" width="120"/><br/>
-        <b>Fit Track</b><br/><sub>Fitness App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" style="width:100%;height:auto;border-radius:8px;"/>
+        <br/>
+        <b>Fit Track</b>
+        <br/>
+        <sub>Fitness App</sub>
       </a>
-    </td>
-    <td align="center">
+    </div>
+    <div style="flex:1 1 200px;max-width:220px;text-align:center">
       <a href="https://wisdomfox-sticky-memo.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" width="120"/><br/>
-        <b>Sticky Memo</b><br/><sub>Notes App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" style="width:100%;height:auto;border-radius:8px;"/>
+        <br/>
+        <b>Sticky Memo</b>
+        <br/>
+        <sub>Notes App</sub>
       </a>
-    </td>
-    <td align="center">
+    </div>
+    <div style="flex:1 1 200px;max-width:220px;text-align:center">
       <a href="https://nmoji.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="120"/><br/>
-        <b>nMoji</b><br/><sub>Emoji Tool</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" style="width:100%;height:auto;border-radius:8px;"/>
+        <br/>
+        <b>nMoji</b>
+        <br/>
+        <sub>Emoji Tool</sub>
       </a>
-    </td>
-    <td align="center">
+    </div>
+    <div style="flex:1 1 200px;max-width:220px;text-align:center">
       <a href="https://contribution-cards.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="120"/><br/>
-        <b>Contribution Cards</b><br/><sub>GitHub UI</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" style="width:100%;height:auto;border-radius:8px;"/>
+        <br/>
+        <b>Contribution Cards</b>
+        <br/>
+        <sub>GitHub UI</sub>
       </a>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -181,22 +193,28 @@ const wisdomFox = {
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=narainkarthikv&theme=tokyonight&no-frame=true&column=-1)
+<img src="https://github-trophies.vercel.app/?username=narainkarthikv&theme=onestar&no-frame=true&column=6&row=2" alt="GitHub Trophies" />
+
+</div> -->
+
+<div align="center" style="width:100%;margin-top:12px;">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narainkarthikv&theme=react-dark&hide_border=true&area=true&custom_title=NarainKarthik's%20activity%20in%20the%20past%2030%20days" width="100%" alt="Activity Graph" />
 
 </div>
 
-<div align="center">
+<div align="center" style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin-top:12px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narainkarthikv&theme=tokyonight&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&layout=compact&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/narainkarthikv?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=narainkarthikv&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true" width="60%" alt="GitHub Stats"/></a>
+  <a href="https://github.com/narainkarthikv?tab=stars"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikv&theme=gotham&hide_border=true&layout=compact&langs_count=8" width="37.5%" alt="Top Languages"/></a>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:12px;">
 
-![Streak Stats](https://streak-stats.demolab.com?user=narainkarthikv&theme=tokyonight&hide_border=true&border_radius=12)
+<img src="https://streak-stats.demolab.com?user=narainkarthikv&theme=react-dark&hide_border=true&border_radius=12" alt="Streak Stats" />
 
 </div>
 
