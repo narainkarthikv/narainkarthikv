@@ -136,46 +136,34 @@ const wisdomFox = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;max-width:1000px;">
-    <div style="flex:1 1 200px;max-width:220px;text-align:center">
+<table align="center">
+  <tr>
+    <td align="center">
       <a href="https://wisdomfox-fit-track.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" style="width:100%;height:auto;border-radius:8px;"/>
-        <br/>
-        <b>Fit Track</b>
-        <br/>
-        <sub>Fitness App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" width="120"/><br/>
+        <b>Fit Track</b><br/><sub>Fitness App</sub>
       </a>
-    </div>
-    <div style="flex:1 1 200px;max-width:220px;text-align:center">
+    </td>
+    <td align="center">
       <a href="https://wisdomfox-sticky-memo.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" style="width:100%;height:auto;border-radius:8px;"/>
-        <br/>
-        <b>Sticky Memo</b>
-        <br/>
-        <sub>Notes App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" width="120"/><br/>
+        <b>Sticky Memo</b><br/><sub>Notes App</sub>
       </a>
-    </div>
-    <div style="flex:1 1 200px;max-width:220px;text-align:center">
+    </td>
+    <td align="center">
       <a href="https://nmoji.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" style="width:100%;height:auto;border-radius:8px;"/>
-        <br/>
-        <b>nMoji</b>
-        <br/>
-        <sub>Emoji Tool</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="120"/><br/>
+        <b>nMoji</b><br/><sub>Emoji Tool</sub>
       </a>
-    </div>
-    <div style="flex:1 1 200px;max-width:220px;text-align:center">
+    </td>
+    <td align="center">
       <a href="https://contribution-cards.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" style="width:100%;height:auto;border-radius:8px;"/>
-        <br/>
-        <b>Contribution Cards</b>
-        <br/>
-        <sub>GitHub UI</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="120"/><br/>
+        <b>Contribution Cards</b><br/><sub>GitHub UI</sub>
       </a>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
