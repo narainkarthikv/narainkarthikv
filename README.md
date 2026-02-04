@@ -1,6 +1,6 @@
 <div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Wisdom%20Fox&width=1000&height=200)](https://github.com/narainkarthikv/svg-banners)
+![Header](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wisdom-fox.svg)
 
 </div>
 
@@ -124,11 +124,31 @@ const wisdomFox = {
 
 <div align="center">
 
-| Category | Technologies |
-|----------|---|
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,figma,bootstrap,materialui,tailwind" /> |
-| **⚡ Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,azure,gcp,mongodb,firebase,postgres" /> |
-| **🛠️ DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,ansible,linux" /> |
+<table>
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
+        <h4>🎨 Frontend</h4>
+        <p style="margin:6px 0"><strong>Core:</strong><br/><img src="https://skillicons.dev/icons?i=html,css,js,astro,react" /></p>
+        <p style="margin:6px 0"><strong>Design & UI:</strong><br/><img src="https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind" /></p>
+      </div>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
+        <h4>⚡ Backend & Cloud</h4>
+        <p style="margin:6px 0"><strong>Server:</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+        <p style="margin:6px 0"><strong>Cloud & DB:</strong><br/><img src="https://skillicons.dev/icons?i=azure,gcp,mongodb,firebase,postgres" /></p>
+      </div>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
+        <h4>🛠️ DevOps & Tools</h4>
+        <p style="margin:6px 0"><strong>VCS & CI:</strong><br/><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /></p>
+        <p style="margin:6px 0"><strong>Containers & OS:</strong><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,windows" /></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -140,26 +160,32 @@ const wisdomFox = {
   <tr>
     <td align="center">
       <a href="https://wisdomfox-fit-track.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" width="120"/><br/>
-        <b>Fit Track</b><br/><sub>Fitness App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" width="100"/><br/>
+        <b>Fit Track</b><br/><sub>Fitness Logger</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://wisdomfox-sticky-memo.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" width="120"/><br/>
-        <b>Sticky Memo</b><br/><sub>Notes App</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/sticky-memo.jpg" width="100"/><br/>
+        <b>Sticky Memo</b><br/><sub>Privacy Notes</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://nmoji.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="120"/><br/>
-        <b>nMoji</b><br/><sub>Emoji Tool</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="100"/><br/>
+        <b>nMoji</b><br/><sub>Emoji Clipboard</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://contribution-cards.netlify.app/">
-        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="120"/><br/>
-        <b>Contribution Cards</b><br/><sub>GitHub UI</sub>
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="100"/><br/>
+        <b>Contribution Cards</b><br/><sub>GitHub Contributions</sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://readmeshopwf.netlify.app/">
+        <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/readme-shop.jpg" width="100"/><br/>
+        <b>Readme Shop</b><br/><sub>Readme docs</sub>
       </a>
     </td>
   </tr>
