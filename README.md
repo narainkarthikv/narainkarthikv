@@ -129,21 +129,21 @@ const wisdomFox = {
     <td valign="top" width="33%" align="center">
       <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
         <h4>🎨 Frontend</h4>
-        <p style="margin:6px 0"><strong>Core:</strong><br/><img src="https://skillicons.dev/icons?i=html,css,js,astro,react" /></p>
+        <p style="margin:6px 0"><strong>Core:</strong><br/><img src="https://skillicons.dev/icons?i=html,css,js,typescript,astro,react" /></p>
         <p style="margin:6px 0"><strong>Design & UI:</strong><br/><img src="https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind" /></p>
       </div>
     </td>
     <td valign="top" width="33%" align="center">
       <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
         <h4>⚡ Backend & Cloud</h4>
-        <p style="margin:6px 0"><strong>Server:</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
-        <p style="margin:6px 0"><strong>Cloud & DB:</strong><br/><img src="https://skillicons.dev/icons?i=azure,gcp,mongodb,firebase,postgres" /></p>
+        <p style="margin:6px 0"><strong>Server:</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express,wordpress" /></p>
+        <p style="margin:6px 0"><strong>Cloud & DB:</strong><br/><img src="https://skillicons.dev/icons?i=azure,gcp,mongodb,postgres" /></p>
       </div>
     </td>
     <td valign="top" width="33%" align="center">
       <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
         <h4>🛠️ DevOps & Tools</h4>
-        <p style="margin:6px 0"><strong>VCS & CI:</strong><br/><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /></p>
+        <p style="margin:6px 0"><strong>VCS & CI:</strong><br/><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman" /></p>
         <p style="margin:6px 0"><strong>Containers & OS:</strong><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,windows" /></p>
       </div>
     </td>
