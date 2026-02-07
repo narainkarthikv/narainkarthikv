@@ -15,13 +15,15 @@
 <div align="center">
 
 <p>
-  <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
-  <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-  <a href="https://www.patreon.com/user?u=72747187"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-  <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" style="border-radius: 8px;"></a>
+  <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://www.patreon.com/user?u=72747187"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius: 8px;"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" style="border-radius: 8px;" />
 
 </div>
 
@@ -90,31 +92,16 @@ const wisdomFox = {
 <details>
 <summary><h3>More about Myself</h3></summary>
 
----
-
-## 🤝 Let's Connect
+## ♥️✨ Coding & Vibes
 
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-</p>
-
-</div>
-
----
-
-## 🎮 Gaming & Coding
-
-<div align="center">
-
-<p>
-  <a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"></a>
-  <a href="https://steamcommunity.com/profiles/76561199130656975/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 8px;"></a>
+  <a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://steamcommunity.com/profiles/76561199130656975/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="border-radius: 8px;"></a>
 </p>
 
 </div>
@@ -136,14 +123,14 @@ const wisdomFox = {
     <td valign="top" width="33%" align="center">
       <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
         <h4>⚡ Backend & Cloud</h4>
-        <p style="margin:6px 0"><strong>Server:</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express,wordpress" /></p>
+        <p style="margin:6px 0"><strong>Server:</strong><br/><img src="https://skillicons.dev/icons?i=nodejs,express,wordpress,postman" /></p>
         <p style="margin:6px 0"><strong>Cloud & DB:</strong><br/><img src="https://skillicons.dev/icons?i=azure,gcp,mongodb,postgres" /></p>
       </div>
     </td>
     <td valign="top" width="33%" align="center">
       <div style="border:1px solid #e6e6e6;border-radius:12px;padding:14px;max-width:280px">
         <h4>🛠️ DevOps & Tools</h4>
-        <p style="margin:6px 0"><strong>VCS & CI:</strong><br/><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman" /></p>
+        <p style="margin:6px 0"><strong>VCS & CI:</strong><br/><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /></p>
         <p style="margin:6px 0"><strong>Containers & OS:</strong><br/><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,windows" /></p>
       </div>
     </td>
