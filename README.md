@@ -50,9 +50,13 @@
 
 ---
 
-💫 **Hey there!** I'm **NarainKarthik Vellingiri** (aka 🦊 **Wisdom Fox**) — a passionate builder, lifelong learner, and 🌍 digital nomad on a mission to make the web a more delightful place.
+💫 **Hey there!** I'm **NarainKarthik Vellingiri** (aka 🦊 **Wisdom Fox**)
 
-Whether I’m 🎨 crafting sleek UIs, ☁️ automating cloud workflows, or 🔧 tinkering with electronics, I bring curiosity, clarity, and creativity to everything I do.
+- 🌍 **Digital Nomad**: On a mission to make the web a more delightful place
+- 🎨 **UI Craftsman**: Crafting sleek user interfaces with passion
+- ☁️ **Cloud Automator**: Streamlining workflows and building scalable solutions
+- 🔧 **Electronics Tinkerer**: Exploring hardware and bringing creativity to tech
+- 🧠 **Lifelong Learner**: Embracing curiosity, clarity, and continuous growth
 
 ---
 
