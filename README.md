@@ -24,6 +24,7 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" style="border-radius: 8px;" />
+<img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
 
@@ -96,14 +97,13 @@ const wisdomFox = {
 <details>
 <summary><h3>More about Myself</h3></summary>
 
-## ♥️✨ Coding & Vibes
+## ♥️✨ Coding & Chilling 
 
 <div align="center">
 
 <p>
   <a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 8px;"></a>
   <a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" style="border-radius: 8px;"></a>
-  <a href="https://www.codingninjas.com/studio/profile/Narainkarthikv"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" style="border-radius: 8px;"></a>
   <a href="https://steamcommunity.com/profiles/76561199130656975/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="border-radius: 8px;"></a>
   <a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" style="border-radius: 8px;"></a>
 </p>
