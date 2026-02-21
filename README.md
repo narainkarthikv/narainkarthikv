@@ -15,15 +15,15 @@
 <div align="center">
 
 <p>
-  <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" style="border-radius: 8px;"></a>
-  <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="border-radius: 8px;"></a>
-  <a href="https://www.patreon.com/user?u=72747187"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="border-radius: 8px;"></a>
-  <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 8px;"></a>
-  <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"></a>
-  <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius: 8px;"></a>
+  <a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
+  <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/narainkarthikv"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+  <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" style="border-radius: 8px;" />
+<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
@@ -173,10 +173,10 @@ const wisdomFox = {
         <b>Contribution Cards</b><br/><sub>GitHub Contributions</sub>
       </a>
     </td>
-        <td align="center">
+    <td align="center">
       <a href="https://readmeshopwf.netlify.app/">
         <img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/readme-shop.jpg" width="100"/><br/>
-        <b>Readme Shop</b><br/><sub>Readme docs</sub>
+        <b>Readme Shop</b><br/><sub>Personalise Readme</sub>
       </a>
     </td>
   </tr>
