@@ -63,7 +63,7 @@
 
 ---
 
-# 🚀 Quick Bio
+## 🚀 Quick Bio
 
 ```js
 const wisdomFox = {
@@ -78,7 +78,7 @@ const wisdomFox = {
 
 ---
 
-# 🟢 What I'm Up To Now
+## 🟢 What I'm Up To Now
 
 - 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
 - 🛠️ Building: Creative, user-first side projects
@@ -86,7 +86,7 @@ const wisdomFox = {
 
 ---
 
-# 🧠 Developer Mindset
+## 🧠 Developer Mindset
 
 > **“Build. Break. Learn. Repeat.”** Great software is crafted through
 > curiosity, discipline, and continuous iteration.
@@ -96,7 +96,7 @@ const wisdomFox = {
 <details>
 <summary><h3>More about Myself</h3></summary>
 
-# ♥️✨ Coding & Chilling
+## ♥️✨ Coding & Chilling
 
 <div align="center">
 
@@ -111,7 +111,7 @@ const wisdomFox = {
 
 ---
 
-# 💻 Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -167,7 +167,7 @@ const wisdomFox = {
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 
@@ -266,7 +266,7 @@ templates, and badge components for faster developer documentation.
 
 ---
 
-# 🤓 Fun Facts & Quirks
+## 🤓 Fun Facts & Quirks
 
 - 🦊 Fox mindset: clever, curious, adaptive
 - 🧑‍🍳 Can cook ramen + ship code
@@ -274,7 +274,7 @@ templates, and badge components for faster developer documentation.
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
