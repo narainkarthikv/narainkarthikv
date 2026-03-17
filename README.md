@@ -76,41 +76,6 @@ const wisdomFox = {
 };
 ```
 
----
-
-## 🟢 What I'm Up To Now
-
-- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
-- 🛠️ Building: Creative, user-first side projects
-- 🤝 Open to: Collaboration, freelance & tech discussions
-
----
-
-## 🧠 Developer Mindset
-
-> **“Build. Break. Learn. Repeat.”** Great software is crafted through
-> curiosity, discipline, and continuous iteration.
-
----
-
-<details>
-<summary><h3>More about Myself</h3></summary>
-
-## ♥️✨ Coding & Chilling
-
-<div align="center">
-
-<p>
-<a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561199130656975/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
-
-</div>
-
----
-
 ## 💻 Tech Arsenal
 
 <div align="center">
@@ -165,7 +130,23 @@ const wisdomFox = {
 
 </div>
 
+
 ---
+
+<!-- ## ♥️✨ Coding & Chilling
+
+<div align="center">
+
+<p>
+<a href="https://leetcode.com/Narainkarthik31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<a href="https://www.geeksforgeeks.org/user/narainkarthik812/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561199130656975/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31kjez2sc5umwskdatczxceb3xdi"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+
+</div>
+
+--- -->
 
 ## 🌟 Featured Projects
 
@@ -266,6 +247,21 @@ templates, and badge components for faster developer documentation.
 
 ---
 
+## 🟢 What I'm Up To Now
+
+- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
+- 🛠️ Building: Creative, user-first side projects
+- 🤝 Open to: Collaboration, freelance & tech discussions
+
+---
+
+## 🧠 Developer Mindset
+
+> **“Build. Break. Learn. Repeat.”** Great software is crafted through
+> curiosity, discipline, and continuous iteration.
+
+---
+
 ## 🤓 Fun Facts & Quirks
 
 - 🦊 Fox mindset: clever, curious, adaptive
@@ -287,8 +283,6 @@ templates, and badge components for faster developer documentation.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narainkarthikv&theme=tokyonight" width="100%" />
 
 </div>
-
-</details>
 
 ---
 
