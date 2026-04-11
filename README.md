@@ -228,14 +228,14 @@ surfacing without requiring a backend service.
 
 <tr>
 <td>
-<a href="https://readmeshopwf.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/readme-shop.jpg" width="160" />
+<a href="https://markdownshop.netlify.app/">
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/markdown-shop.jpg" width="160" />
 </a>
 </td>
 
 <td>
 
-### Readme Shop
+### Markdown Shop
 
 📄 Interactive **README builder** with live Markdown preview, reusable
 templates, and badge components for faster developer documentation.
