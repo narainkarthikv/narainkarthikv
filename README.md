@@ -159,8 +159,8 @@ const wisdomFox = {
 
 <tr>
 <td>
-<a href="https://wisdomfox-fit-track.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fit-track.jpg" width="160" />
+<a href="https://fitprogressr.netlify.app/">
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fitprogressr.jpg" width="160" />
 </a>
 </td>
 
