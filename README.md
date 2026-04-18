@@ -166,7 +166,7 @@ const wisdomFox = {
 
 <td>
 
-### Fit Track
+### FitProgressr
 
 🏋️ Full-stack **MERN fitness tracker** with responsive dashboards, streak
 analytics, and custom routine management for performance-focused workout
