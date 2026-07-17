@@ -264,9 +264,12 @@ templates, and badge components for faster developer documentation.
 
 ## 🤓 Fun Facts & Quirks
 
-- 🦊 Fox mindset: clever, curious, adaptive
-- 🧑‍🍳 Can cook ramen + ship code
-- 🏆 Learning by building & sharing
+- 🦊 Fox vibes: curious, adaptable, and weirdly stubborn about my tech choices
+- 🧑‍🍳 Can actually cook ramen while shipping code. (priorities are weird sometimes lol)
+- 🏆 I learn by building, breaking things publicly, and not being afraid to look dumb
+- ⚡ Coffee + debugging sessions + zero chill = my entire existence
+- 🐧 Linux > everything else. Windows just... doesn't spark joy
+- 🎮 Video games taught me that there's always another way. Gives me patience with code
 
 ---
 
