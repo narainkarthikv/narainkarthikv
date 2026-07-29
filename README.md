@@ -17,7 +17,7 @@
 <div align="center">
 
 <p>
-<a href="https://narainkarthikv.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
+<a href="https://narainkarthikv.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
 <a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <a href="https://www.buymeacoffee.com/narainkarthikv"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <!-- <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> -->
