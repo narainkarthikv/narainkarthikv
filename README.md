@@ -16,15 +16,15 @@
 <a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-101820?style=for-the-badge&logo=gitlab&logoColor=FF3158"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=00F0FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=for-the-badge&color=101820&labelColor=00F0FF" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=3B82F6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=for-the-badge&color=020617&labelColor=3B82F6" alt="GitHub Followers"/>
 
 </div>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td valign="middle" width="65%">
+<img align="right" src="assets/svg/glitch-about.svg" width="35%" alt="Hooded chibi developer thinking and sipping coffee, with thought dots leading to cloud and interface ideas." />
+
+### 👤 About Me
 
 - 🌍 **Digital Nomad**: On a mission to make the web a more delightful place
 - 🎨 **UI Craftsman**: Crafting sleek user interfaces with passion
@@ -35,17 +35,15 @@
 
 ### 🟢 What I'm Up To Now
 
-- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
-- 🛠️ Building: Creative, user-first side projects
-- 🤝 Open to: Collaboration, freelance & tech discussions
+<p><code>01 ━</code> &nbsp; 🌱 <strong>LEARNING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;AI-powered web apps, DevOps &amp; Cloud</p>
+<p><code>02 ━</code> &nbsp; 🛠️ <strong>BUILDING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Creative, user-first side projects</p>
+<p><code>03 ━</code> &nbsp; 🤝 <strong>OPEN TO</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Collaboration, freelance &amp; tech discussions</p>
 
-</td>
-<td align="right" valign="middle" width="35%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
+### 🧠 Developer Mindset
 
+> **“Build. Break. Learn. Repeat.”** Great software is crafted through curiosity, discipline, and continuous iteration.
+
+<br clear="right" />
 
 ## 🚀 Quick Bio
 
@@ -135,107 +133,57 @@ const wisdomFox = {
 
 ## 🌟 Featured Projects
 
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
+```text
+PROJECT INDEX // 05 ENTRIES
+```
 
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<th align="left" width="22%">Project Image</th>
-<th align="left" width="78%">Project Description</th>
+<th align="left" width="8%">ID</th>
+<th align="left" width="20%">PREVIEW</th>
+<th align="left" width="72%">PROJECT // CLASSIFICATION // OVERVIEW</th>
 </tr>
-
 <tr>
-<td width="22%">
-<a href="https://fitprogressr.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fitprogressr.jpg" width="100%" />
-</a>
-</td>
-
-<td width="78%">
-
-### FitProgressr
-
-🏋️ Full-stack **MERN fitness tracker** with responsive dashboards, streak
-analytics, and custom routine management for performance-focused workout
-tracking.
-
+<td valign="middle"><code>01</code></td>
+<td valign="middle" align="center"><img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fitprogressr.jpg" width="140" /></td>
+<td valign="middle">
+<strong><a href="https://fitprogressr.netlify.app/">FitProgressr</a></strong> &nbsp; <code>FULL-STACK // FITNESS</code><br />
+🏋️ Full-stack <strong>MERN fitness tracker</strong> with responsive dashboards, streak analytics, and custom routine management for performance-focused workout tracking.
 </td>
 </tr>
-
 <tr>
-<td width="22%">
-<a href="https://ownlyst.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/ownlyst.jpg" width="100%" />
-</a>
-</td>
-
-<td width="78%">
-
-### Ownlyst
-
-📝 Privacy-first **note-taking app** with offline storage, multiple view modes,
-and zero server dependency for distraction-free productivity.
-
+<td valign="middle"><code>02</code></td>
+<td valign="middle" align="center"><img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/ownlyst.jpg" width="140" /></td>
+<td valign="middle">
+<strong><a href="https://ownlyst.netlify.app/">Ownlyst</a></strong> &nbsp; <code>PRODUCTIVITY // OFFLINE-FIRST</code><br />
+📝 Privacy-first <strong>note-taking app</strong> with offline storage, multiple view modes, and zero server dependency for distraction-free productivity.
 </td>
 </tr>
-
 <tr>
-<td width="22%">
-<a href="https://nmoji.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="100%" />
-</a>
-</td>
-
-<td width="78%">
-
-### Nmoji
-
-😀 Emoji search and picker built with **Astro + React**, optimized for instant
-filtering, keyboard-first navigation, and extension-ready performance.
-
+<td valign="middle"><code>03</code></td>
+<td valign="middle" align="center"><img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="140" /></td>
+<td valign="middle">
+<strong><a href="https://nmoji.netlify.app/">Nmoji</a></strong> &nbsp; <code>ASTRO + REACT // EMOJI SEARCH</code><br />
+😀 Emoji search and picker built with <strong>Astro + React</strong>, optimized for instant filtering, keyboard-first navigation, and extension-ready performance.
 </td>
 </tr>
-
 <tr>
-<td width="22%">
-<a href="https://contribution-cards.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="100%" />
-</a>
-</td>
-
-<td width="78%">
-
-### Contribution Cards
-
-👥 GitHub contributor directory with **smart caching**, filtering, and profile
-surfacing without requiring a backend service.
-
+<td valign="middle"><code>04</code></td>
+<td valign="middle" align="center"><img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="140" /></td>
+<td valign="middle">
+<strong><a href="https://contribution-cards.netlify.app/">Contribution Cards</a></strong> &nbsp; <code>GITHUB // CONTRIBUTOR DIRECTORY</code><br />
+👥 GitHub contributor directory with <strong>smart caching</strong>, filtering, and profile surfacing without requiring a backend service.
 </td>
 </tr>
-
 <tr>
-<td width="22%">
-<a href="https://markdownshop.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/markdown-shop.jpg" width="100%" />
-</a>
-</td>
-
-<td width="78%">
-
-### Markdown Shop
-
-📄 Interactive **README builder** with live Markdown preview, reusable
-templates, and badge components for faster developer documentation.
-
+<td valign="middle"><code>05</code></td>
+<td valign="middle" align="center"><img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/markdown-shop.jpg" width="140" /></td>
+<td valign="middle">
+<strong><a href="https://markdownshop.netlify.app/">Markdown Shop</a></strong> &nbsp; <code>MARKDOWN // DOCUMENTATION TOOLING</code><br />
+📄 Interactive <strong>README builder</strong> with live Markdown preview, reusable templates, and badge components for faster developer documentation.
 </td>
 </tr>
-
 </table>
-
-
-
-## 🧠 Developer Mindset
-
-> **“Build. Break. Learn. Repeat.”** Great software is crafted through
-> curiosity, discipline, and continuous iteration.
 
 
 

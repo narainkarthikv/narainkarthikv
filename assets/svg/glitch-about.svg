@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-labelledby="title desc"><title id="title">Chibi hacker thinking about creative topics</title><desc id="desc">A hooded chibi developer types at a laptop while thought dots lead to a panel cycling through AI, cloud, games, movies, songs, and books, with a small pirate-inspired chibi doll on the right side of the desk and a puppy at the bottom left.</desc><defs><linearGradient id="about-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F172A" /><stop offset="1" stop-color="#020617" /></linearGradient></defs><rect x="10" y="10" width="340" height="220" rx="18" fill="url(#about-bg)" /><g id="background-glitch-pulses" fill="none" stroke-linecap="square">
+  <g stroke="#3B82F6" stroke-width=".7">
+    <path d="M20 42h78" stroke-dasharray="0 8 6 15 11 38" opacity=".28"><animate attributeName="stroke-dashoffset" values="78;52;52;0" keyTimes="0;.32;.38;1" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.46;.12;.28" keyTimes="0;.28;.36;1" dur="3.2s" repeatCount="indefinite"/></path>
+    <path d="M29 53h58" stroke-dasharray="0 25 12 21" opacity=".2"><animate attributeName="stroke-dashoffset" values="58;58;21;0" keyTimes="0;.3;.34;1" dur="2.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".04;.34;.1;.2" dur="2.7s" repeatCount="indefinite"/></path>
+    <path d="M22 65h71" stroke-dasharray="0 12 8 17 13 21" opacity=".17"><animate attributeName="stroke-dashoffset" values="71;44;44;0" keyTimes="0;.4;.44;1" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".02;.3;.08;.17" dur="3.8s" repeatCount="indefinite"/></path>
+  </g>
+  <g stroke="#60A5FA" stroke-width=".65">
+    <path d="M268 168h72" stroke-dasharray="0 18 9 14 8 23" opacity=".2"><animate attributeName="stroke-dashoffset" values="72;46;46;0" keyTimes="0;.24;.29;1" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".03;.38;.1;.2" dur="3.4s" repeatCount="indefinite"/></path>
+    <path d="M278 180h60" stroke-dasharray="0 32 12 16" opacity=".16"><animate attributeName="stroke-dashoffset" values="60;60;17;0" keyTimes="0;.3;.35;1" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".02;.32;.08;.16" dur="2.8s" repeatCount="indefinite"/></path>
+    <path d="M270 193h70" stroke-dasharray="0 9 5 20 12 24" opacity=".18"><animate attributeName="stroke-dashoffset" values="70;33;33;0" keyTimes="0;.2;.26;1" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".03;.3;.06;.18" dur="3.8s" repeatCount="indefinite"/></path>
+  </g>
+</g><path d="M28 218h304" stroke="#3B82F6" stroke-width="1" stroke-dasharray="2 9" opacity=".5" /><g transform="matrix(.84 0 0 .84 -745 14)"><g id="chibi-hacker" aria-label="Chibi hacker wearing wired earbuds, sitting at a desk, typing on a laptop">
+    <g transform="translate(7 0)">
+      <g>
+    <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#3B82F6" opacity=".12" />
+
+    <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5" />
+    <g transform="translate(0 -9)">
+    <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#0F172A" stroke="#3B82F6" stroke-width="2" />
+    <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#1E293B" stroke="#3B82F6" stroke-width="2" />
+    <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#020617" stroke="#3B82F6" stroke-width="1.5" opacity=".8" />
+
+    <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5" />
+    <path d="M1055 98h13m25 0h13" stroke="#020617" stroke-width="4" stroke-linecap="round" />
+    <path d="M1074 119q8 6 16 0" fill="none" stroke="#020617" stroke-width="2" stroke-linecap="round" />
+    </g>
+
+    
+    <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5" />
+    <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5" />
+    <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#F8FAFC" stroke-width="1.2" stroke-linecap="round" opacity=".75" />
+    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#3B82F6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85" />
+
+    <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#0F172A" stroke="#3B82F6" stroke-width="2" />
+    <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#1E293B" stroke="#334155" stroke-width="1.5" />
+    <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#3B82F6" stroke-width="2" opacity=".72" />
+    
+    <path d="M1050 140c-8 7-14 14-17 22l7 4" fill="none" stroke="#3B82F6" stroke-width="17" stroke-linecap="round" />
+    <path d="M1050 140c-8 7-14 14-17 22l7 4" fill="none" stroke="#1E293B" stroke-width="11" stroke-linecap="round" />
+    
+    <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#020617" stroke="#3B82F6" stroke-width="2" />
+
+    
+    <g id="typing-arm">
+      <path d="M1118 139c-5 7-11 12-18 17l-7 10" fill="none" stroke="#3B82F6" stroke-width="24" stroke-linecap="round" />
+      <path d="M1118 139c-5 7-11 12-18 17l-7 10" fill="none" stroke="#1E293B" stroke-width="17" stroke-linecap="round" />
+      <path d="M1088 163q5-4 9 0l6 4q2 2 0 4l-4 1q-6-2-11-5z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.7" stroke-linejoin="round" />
+      <path d="M1090 164l3 4m3-5 3 5m3-4 3 4" fill="none" stroke="#F8FAFC" stroke-width="1.2" stroke-linecap="round" opacity=".8" />
+      <animateTransform attributeName="transform" type="rotate" values="0 1118 139;1 1118 139;-1 1118 139;0 1118 139" keyTimes="0;.3;.65;1" dur=".42s" repeatCount="indefinite" />
+    </g>
+      </g>
+    </g>
+    <path d="M978 177h216l-7 9H985z" fill="#1E293B" stroke="#3B82F6" stroke-width="2" />
+    <path d="M991 186h190v34H991z" fill="#0F172A" stroke="#334155" stroke-width="1.5" />
+    <path d="M1000 190v25m172-25v25" stroke="#3B82F6" stroke-width="1" opacity=".5" />
+    <rect x="1012" y="122" width="91" height="43" rx="3" fill="#020617" stroke="#3B82F6" stroke-width="2" />
+    <rect x="1017" y="127" width="81" height="33" rx="1" fill="#1E293B" stroke="#334155" stroke-width="1" opacity=".95" />
+    <g transform="translate(474 64) scale(.55)" fill="#F8FAFC">
+      <path d="M1058 138c-3-2-8-2-10 1-3 3-3 8-1 13 2 4 4 7 7 7 2 0 3-1 5-1s3 1 5 1c3 0 6-5 7-10-4-1-5-5-1-8-3-4-7-5-12-3z" />
+      <circle cx="1068" cy="142" r="2.7" fill="#1E293B" />
+      <path d="M1059 136c1-3 4-5 7-5 0 3-2 5-5 6z" />
+    </g>
+    <path d="M1004 165h108l9 9h-126z" fill="#334155" stroke="#3B82F6" stroke-width="1.5" />
+    <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#F8FAFC" stroke-width=".8" opacity=".5" />
+
+    
+
+
+    <g id="tabletop-pirate-doll" transform="translate(19 2)" stroke="#0F172A" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="1150" cy="176" rx="12" ry="1.5" fill="#020617" opacity=".4" stroke="none"/>
+      <path d="M1145 161h10l2 11h-14z" fill="#2563EB"/>
+      <path d="M1146 170v4m8-4v4" fill="none" stroke="#F8FAFC" stroke-width="2.2"/>
+      <path d="M1144 173h5l1 2h-7zm8 0h5l1 2h-7z" fill="#F59E0B"/>
+      <path d="M1142 146q8-4 16 0l3 16h-22z" fill="#EF4444"/>
+      <path d="M1148 146v15m5-14v13" fill="none" stroke="#F8FAFC" stroke-width="1.5"/>
+      <circle cx="1150" cy="151" r=".8" fill="#FDE68A" stroke="none"/><circle cx="1150" cy="156" r=".8" fill="#FDE68A" stroke="none"/>
+      <path d="M1142 148l-5 8 4 2m17-10 5 8-4 2" fill="none" stroke="#C9A58C" stroke-width="2.4"/>
+      <circle cx="1150" cy="137" r="8.5" fill="#F2C7A5" stroke="#0F172A"/>
+      <path d="M1142 136q1-9 8-10 7 0 9 9l-3 2-2-5-5 3-4-2-2 4z" fill="#1E293B"/>
+      <path d="M1142 130q1-11 9-12 9 1 10 12 8 1 9 4-18 4-36 0 1-3 8-4z" fill="#FACC15" stroke="#0F172A"/>
+      <path d="M1143 130q8-3 17 0" fill="none" stroke="#EF4444" stroke-width="2.2"/>
+      <path d="M1146 138h1m7 0h1" stroke="#0F172A" stroke-width="1.5"/>
+      <path d="M1147 142q3 2 6 0" fill="none" stroke="#7F1D1D" stroke-width="1"/>
+    </g>
+  </g>
+
+  </g>
+  <g id="thought-panel">
+    <circle cx="234" cy="70" r="1.4" fill="#60A5FA" opacity=".8"/>
+    <circle cx="246" cy="62" r="1.9" fill="#3B82F6" opacity=".85"/>
+    <circle cx="259" cy="56" r="2.5" fill="#60A5FA" opacity=".9"/>
+    <path transform="translate(-8 -18) translate(310 78) scale(1.2) translate(-310 -78)" d="M294 104c-8 0-14-5-14-12 0-6 4-11 10-12-2-9 4-16 13-16 4-9 16-11 22-3 9-2 16 5 14 14 6 2 9 7 8 13-1 9-7 16-16 16z" fill="#0F172A" fill-opacity=".92" stroke="#3B82F6" stroke-width="1.5"/>
+    <g transform="translate(307 56)"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><path d="M-6-7v-3h12v3M-10-4h20v13h-20zM-13 0h3m20 0h3M-5 1h.1m10 0h.1M-3 5h6"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">AI</text><animate attributeName="opacity" values="1;0;0;0;0;0;1" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+    <g transform="translate(307 56)" opacity="0"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><path d="M-10 7h20a7 7 0 0 0 0-14 10 10 0 0 0-19 3 6 6 0 0 0-1 11z"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Cloud</text><animate attributeName="opacity" values="0;1;0;0;0;0;0" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+    <g transform="translate(307 56)" opacity="0"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><path d="M-11-5h22l4 13q1 5-4 5l-6-5h-10l-6 5q-5 0-4-5zM-6 0v5m-2-2h4m10-1h.1m5 3h.1"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Games</text><animate attributeName="opacity" values="0;0;1;0;0;0;0" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+    <g transform="translate(307 56)" opacity="0"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><rect x="-11" y="-8" width="22" height="16" rx="2"/><path d="M-6-8v16m12-16v16M-2-4l5 4-5 4z"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Movies</text><animate attributeName="opacity" values="0;0;0;1;0;0;0" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+    <g transform="translate(307 56)" opacity="0"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><path d="M3-10v15a5 5 0 1 1-3-5m3-8 9-2v5l-9 2"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Songs</text><animate attributeName="opacity" values="0;0;0;0;1;0;0" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+    <g transform="translate(307 56)" opacity="0"><g fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="scale(.72)"><path d="M-11-9h8q3 0 3 3v15q0-3-3-3h-8zM11-9H3q-3 0-3 3v15q0-3 3-3h8zM0-6v15"/></g><text x="0" y="25" fill="#BFDBFE" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Books</text><animate attributeName="opacity" values="0;0;0;0;0;1;0" keyTimes="0;0.166667;0.333333;0.5;0.666667;0.833333;1" calcMode="discrete" dur="12s" repeatCount="indefinite"/></g>
+  </g>
+  <g transform="matrix(.84 0 0 .84 -745 14)"><ellipse cx="991" cy="177" rx="13" ry="2.2" fill="#020617" opacity=".45" /><path d="M981 151q10-3 20 0l-2 24q-8 4-16 0z" fill="#E2E8F0" stroke="#3B82F6" stroke-width="2" stroke-linejoin="round" /><path d="M1000 156q12-2 10 7-1 6-11 5" fill="none" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" /><path d="M982 156h18v4h-18z" fill="#8B5E3C" /><path d="M982 151q9-3 18 0" fill="none" stroke="#F8FAFC" stroke-width="1.2" opacity=".8" /><g id="about-steam" fill="none" stroke="#A5F3FC" stroke-width="2" stroke-linecap="round" opacity=".85"><path d="M985 148c-5-6 5-8 0-15m9 15c-5-6 5-8 0-15m9 15c-5-6 5-8 0-15" /><animateTransform attributeName="transform" type="translate" values="0 0;2 -7;-1 -14;1 -22;0 0" keyTimes="0;.25;.5;.75;1" dur="2.4s" repeatCount="indefinite" /><animate attributeName="opacity" values=".1;.9;.55;0;.1" keyTimes="0;.2;.55;.85;1" dur="2.4s" repeatCount="indefinite" /></g></g>
+  <g id="about-puppy" transform="translate(26 190)">
+    <g transform="translate(36 0) scale(-1 1)">
+    <ellipse cx="17" cy="25" rx="15" ry="2.5" fill="#020617" opacity=".38" />
+    <path d="M9 17c5-7 17-7 23 0l-1 8H8z" fill="#D6A878" stroke="#3B82F6" stroke-width="1.5" />
+    <g><path d="M27 17c4-2 6-5 7-8 4 1 5 5 2 8l-5 4z" fill="#C08457" stroke="#3B82F6" stroke-width="1.2" /><animateTransform attributeName="transform" type="rotate" values="0 29 18;16 29 18;-10 29 18;0 29 18" dur=".48s" repeatCount="indefinite" /></g>
+    <g id="puppy-head">
+    <animateTransform attributeName="transform" type="rotate" values="0 7 15;-10 7 15;0 7 15;7 7 15;0 7 15" dur="2.4s" repeatCount="indefinite" />
+    <path d="M1 11C-2 7 0 2 4 4l4 7zM8 10c1-5 5-7 8-4l-3 7z" fill="#C08457" stroke="#3B82F6" stroke-width="1.3" stroke-linejoin="round" /><path d="M2 8q0-3 2-3l2 4zm8 0q2-3 4-2l-2 4z" fill="#F0AB9A" stroke="none" />
+    <circle cx="7" cy="15" r="8" fill="#F8FAFC" stroke="#3B82F6" stroke-width="1.5" />
+    <path d="M1 17q4-5 9-1 2 2 1 5-5 3-10-1z" fill="#D6A878" />
+    <circle cx="4" cy="13" r=".9" fill="#0F172A" />
+    <ellipse cx="0" cy="17" rx="1.8" ry="1.3" fill="#0F172A" />
+    <path d="M0 19q3 3 6 0" fill="none" stroke="#0F172A" stroke-width=".8" stroke-linecap="round"><animate attributeName="opacity" values="1;0;1;0;1;1" keyTimes="0;.25;.38;.66;.79;1" calcMode="discrete" dur="1.2s" repeatCount="indefinite" /></path>
+    <path d="M0 18q3 1 6 0v4q-3 3-6 0z" fill="#7F1D1D" stroke="#0F172A" stroke-width=".7" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;0" keyTimes="0;.25;.38;.66;.79;1" calcMode="discrete" dur="1.2s" repeatCount="indefinite" /></path>
+    <path d="M-3 11l-3-2m3 6h-4" fill="none" stroke="#60A5FA" stroke-width="1.2" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;0" keyTimes="0;.25;.38;.66;.79;1" calcMode="discrete" dur="1.2s" repeatCount="indefinite" /></path>
+    </g>
+    <path d="M8 21q4 3 8 0" fill="none" stroke="#60A5FA" stroke-width="2" />
+    <g>
+      <path d="M11 23v5m12-5v5" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+      <path d="M11 24v4m12-4v4" stroke="#3B82F6" stroke-width=".8" stroke-linecap="round" />
+    </g>
+    </g>
+  </g>
+</svg>
