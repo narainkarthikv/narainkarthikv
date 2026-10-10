@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 3" preserveAspectRatio="none" role="presentation">
   <!-- Three thin signal strips stutter and flicker like analog data pulses. -->
-  <path d="M0 .45h1200" fill="none" stroke="#00f0ff" stroke-width=".48" stroke-dasharray="0 42 64 1094" opacity=".82">
+  <path d="M0 .45h1200" fill="none" stroke="#3B82F6" stroke-width=".48" stroke-dasharray="0 42 64 1094" opacity=".82">
     <animate attributeName="stroke-dashoffset" values="1200;900;900;570;575;0" keyTimes="0;.22;.3;.57;.6;1" dur="3.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".2;.9;.25;1;.35;.82" keyTimes="0;.18;.3;.54;.58;1" dur="3.2s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 1.5h1200" fill="none" stroke="#9cecf2" stroke-width=".58" stroke-dasharray="18 76 24 1082" opacity=".72">
+  <path d="M0 1.5h1200" fill="none" stroke="#F8FAFC" stroke-width=".58" stroke-dasharray="18 76 24 1082" opacity=".72">
     <animate attributeName="stroke-dashoffset" values="1200;1200;760;755;310;0" keyTimes="0;.16;.38;.42;.7;1" dur="2.7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".12;.65;.22;.9;.2;.72" keyTimes="0;.14;.36;.42;.73;1" dur="2.7s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 2.55h1200" fill="none" stroke="#00f0ff" stroke-width=".42" stroke-dasharray="0 160 34 1006" opacity=".64">
+  <path d="M0 2.55h1200" fill="none" stroke="#3B82F6" stroke-width=".42" stroke-dasharray="0 160 34 1006" opacity=".64">
     <animate attributeName="stroke-dashoffset" values="1200;840;842;405;0" keyTimes="0;.28;.31;.66;1" dur="3.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".1;.7;.2;.85;.35" keyTimes="0;.28;.34;.67;1" dur="3.8s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 1.05h1200" fill="none" stroke="#ff3158" stroke-width=".35" stroke-dasharray="0 230 11 959" opacity=".45">
+  <path d="M0 1.05h1200" fill="none" stroke="#00B9FF" stroke-width=".35" stroke-dasharray="0 230 11 959" opacity=".45">
     <animate attributeName="stroke-dashoffset" values="1200;970;972;0" keyTimes="0;.24;.27;1" dur="2.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;.5;.12;.42;0" keyTimes="0;.22;.27;.7;1" dur="2.1s" repeatCount="indefinite"/>
   </path>

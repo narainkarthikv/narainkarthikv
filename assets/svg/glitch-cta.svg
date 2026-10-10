@@ -3,10 +3,10 @@
   <desc id="description">A chibi hacker waves goodbye on the left. Star, collaborate, and support. Great things are built one commit at a time.</desc>
   <defs>
     <linearGradient id="cta-line" x1="0" x2="1">
-      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
-      <stop offset=".2" stop-color="#00f0ff" stop-opacity=".8"/>
-      <stop offset=".8" stop-color="#00f0ff" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#3B82F6" stop-opacity=".8"/>
+      <stop offset=".8" stop-color="#3B82F6" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
     </linearGradient>
   <clipPath id="cta-slice"><rect x="360" y="45" width="800" height="22"/></clipPath>
     <clipPath id="motto-slice"><rect x="380" y="158" width="720" height="24"/></clipPath>
@@ -16,44 +16,44 @@
   <!-- Reuse the profile title chibi, scaled into the footer's left column. -->
   <g transform="matrix(.84 0 0 .84 -770 14)">
     <g id="chibi-hacker" aria-label="Chibi avatar from the title waving goodbye">
-      <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#00f0ff" opacity=".12"/>
-      <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#00f0ff" stroke-width="1.5"/>
+      <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#3B82F6" opacity=".12"/>
+      <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5"/>
       <g transform="translate(0 -9)">
-        <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#101820" stroke="#00f0ff" stroke-width="2"/>
-        <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#18242d" stroke="#00f0ff" stroke-width="2"/>
-        <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#0a1118" stroke="#00f0ff" stroke-width="1.5" opacity=".8"/>
-        <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#00f0ff" stroke-width="1.5"/>
-        <path d="M1055 98h13m25 0h13" stroke="#0b1319" stroke-width="4" stroke-linecap="round"/>
-        <path d="M1074 119q8 6 16 0" fill="none" stroke="#0b1319" stroke-width="2" stroke-linecap="round"/>
+        <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#0F172A" stroke="#3B82F6" stroke-width="2"/>
+        <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+        <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#020617" stroke="#3B82F6" stroke-width="1.5" opacity=".8"/>
+        <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5"/>
+        <path d="M1055 98h13m25 0h13" stroke="#020617" stroke-width="4" stroke-linecap="round"/>
+        <path d="M1074 119q8 6 16 0" fill="none" stroke="#020617" stroke-width="2" stroke-linecap="round"/>
       </g>
-      <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#18242d" stroke="#00f0ff" stroke-width="1.5"/>
-      <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#18242d" stroke="#00f0ff" stroke-width="1.5"/>
-      <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#9cecf2" stroke-width="1.2" stroke-linecap="round" opacity=".75"/>
-      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#18242d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#00f0ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
-      <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#101820" stroke="#00f0ff" stroke-width="2"/>
-      <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#18242d" stroke="#243943" stroke-width="1.5"/>
-      <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#00f0ff" stroke-width="2" opacity=".72"/>
-      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#00f0ff" stroke-width="17" stroke-linecap="round"/>
-      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#18242d" stroke-width="11" stroke-linecap="round"/>
-      <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#111920" stroke="#00f0ff" stroke-width="2"/>
-      <path d="M978 177h216l-7 9H985z" fill="#18242d" stroke="#00f0ff" stroke-width="2"/>
-      <path d="M991 186h190v34H991z" fill="#101820" stroke="#243943" stroke-width="1.5"/>
-      <path d="M1000 190v25m172-25v25" stroke="#00f0ff" stroke-width="1" opacity=".5"/>
-      <rect x="1012" y="122" width="91" height="43" rx="3" fill="#090f14" stroke="#00f0ff" stroke-width="2"/>
-      <rect x="1017" y="127" width="81" height="33" rx="1" fill="#12232b" stroke="#243943" stroke-width="1" opacity=".95"/>
-      <g transform="translate(264 36) scale(.75) translate(-1 -2)" fill="#9cecf2">
+      <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+      <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+      <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#F8FAFC" stroke-width="1.2" stroke-linecap="round" opacity=".75"/>
+      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#3B82F6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+      <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#0F172A" stroke="#3B82F6" stroke-width="2"/>
+      <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#1E293B" stroke="#334155" stroke-width="1.5"/>
+      <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#3B82F6" stroke-width="2" opacity=".72"/>
+      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#3B82F6" stroke-width="17" stroke-linecap="round"/>
+      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#1E293B" stroke-width="11" stroke-linecap="round"/>
+      <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#020617" stroke="#3B82F6" stroke-width="2"/>
+      <path d="M978 177h216l-7 9H985z" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+      <path d="M991 186h190v34H991z" fill="#0F172A" stroke="#334155" stroke-width="1.5"/>
+      <path d="M1000 190v25m172-25v25" stroke="#3B82F6" stroke-width="1" opacity=".5"/>
+      <rect x="1012" y="122" width="91" height="43" rx="3" fill="#020617" stroke="#3B82F6" stroke-width="2"/>
+      <rect x="1017" y="127" width="81" height="33" rx="1" fill="#1E293B" stroke="#334155" stroke-width="1" opacity=".95"/>
+      <g transform="translate(474 64) scale(.55)" fill="#F8FAFC">
         <path d="M1058 138c-3-2-8-2-10 1-3 3-3 8-1 13 2 4 4 7 7 7 2 0 3-1 5-1s3 1 5 1c3 0 6-5 7-10-4-1-5-5-1-8-3-4-7-5-12-3z"/>
-        <circle cx="1068" cy="142" r="2.7" fill="#12232b"/>
+        <circle cx="1068" cy="142" r="2.7" fill="#1E293B"/>
         <path d="M1059 136c1-3 4-5 7-5 0 3-2 5-5 6z"/>
       </g>
-      <path d="M1004 165h108l9 9h-126z" fill="#263b43" stroke="#00f0ff" stroke-width="1.5"/>
-      <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#9cecf2" stroke-width=".8" opacity=".5"/>
+      <path d="M1004 165h108l9 9h-126z" fill="#334155" stroke="#3B82F6" stroke-width="1.5"/>
+      <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#F8FAFC" stroke-width=".8" opacity=".5"/>
       <g id="wave-arm">
-        <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#00f0ff" stroke-width="24" stroke-linecap="round"/>
-        <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#18242d" stroke-width="17" stroke-linecap="round"/>
-        <path d="M1157 82c-7-4-9-10-7-15l5-13c1-4 5-5 7-2l-1 12 5-20c1-4 6-5 8-1l-2 19 6-16c2-4 7-3 8 1l-5 19 7-10c3-3 6-3 5 2l-7 19c-4 9-14 13-23 8z" fill="#c9a58c" stroke="#00f0ff" stroke-width="2" stroke-linejoin="round"/>
-        <path d="M1156 72l5 3m7-8 5 2m7-4 4 3" stroke="#9cecf2" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
+        <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#3B82F6" stroke-width="24" stroke-linecap="round"/>
+        <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#1E293B" stroke-width="17" stroke-linecap="round"/>
+        <path d="M1157 82c-7-4-9-10-7-15l5-13c1-4 5-5 7-2l-1 12 5-20c1-4 6-5 8-1l-2 19 6-16c2-4 7-3 8 1l-5 19 7-10c3-3 6-3 5 2l-7 19c-4 9-14 13-23 8z" fill="#c9a58c" stroke="#3B82F6" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M1156 72l5 3m7-8 5 2m7-4 4 3" stroke="#F8FAFC" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
         <animateTransform attributeName="transform" type="rotate" values="0 1118 139;-8 1118 139;2 1118 139;0 1118 139" keyTimes="0;.35;.68;1" dur="1.25s" repeatCount="indefinite"/>
       </g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.4s" repeatCount="indefinite"/>
@@ -61,71 +61,71 @@
   </g>
 
   <!-- CTA copy sits to the right of the avatar. -->
-  <path d="M340 30v190" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 8" opacity=".4">
+  <path d="M340 30v190" stroke="#3B82F6" stroke-width="1" stroke-dasharray="2 8" opacity=".4">
     <animate attributeName="stroke-dashoffset" values="0;-40" dur="3s" repeatCount="indefinite"/>
   </path>
-  <path d="M390 35h700m-700 174h700" fill="none" stroke="#00f0ff" stroke-width="1" opacity=".5"/>
-  <text x="410" y="69" fill="#eafcff" font-family="monospace" font-size="32" font-weight="700" letter-spacing="1">Let’s Build, Learn &amp; Ship Together</text>
+  <path d="M390 35h700m-700 174h700" fill="none" stroke="#3B82F6" stroke-width="1" opacity=".5"/>
+  <text x="410" y="69" fill="#F8FAFC" font-family="monospace" font-size="32" font-weight="700" letter-spacing="1">Let’s Build, Learn &amp; Ship Together</text>
   <g clip-path="url(#cta-slice)">
-    <text x="414" y="69" fill="#ff3158" opacity=".8" font-family="monospace" font-size="32" font-weight="700" letter-spacing="1">Let’s Build, Learn &amp; Ship Together
+    <text x="414" y="69" fill="#00B9FF" opacity=".8" font-family="monospace" font-size="32" font-weight="700" letter-spacing="1">Let’s Build, Learn &amp; Ship Together
       <animate attributeName="x" values="414;420;402;414" dur="2.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".8;.2;.9;.8" dur="2.8s" repeatCount="indefinite"/>
     </text>
   </g>
   <path d="M410 91h650" stroke="url(#cta-line)" stroke-width="1"/>
-  <g fill="none" stroke="#00f0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m450 112 4 9 10 1-7 7 2 10-9-5-9 5 2-10-7-7 10-1z" fill="#00f0ff" fill-opacity=".16"/>
+  <g fill="none" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m450 112 4 9 10 1-7 7 2 10-9-5-9 5 2-10-7-7 10-1z" fill="#3B82F6" fill-opacity=".16"/>
     <path d="M670 117l13 13m-13-13-8-8-8 8 10 10m9-10 8-8 8 8-10 10m-20 0 7 7c2 2 5 2 7 0l8-8"/>
     <path d="M914 115h18v16c0 7-5 11-9 11s-9-4-9-11zm18 4h4c6 0 6 9 0 9h-4M912 145h23m-19-4-4 4m19-4 4 4"/>
   </g>
-  <g fill="#9cecf2" font-family="monospace" font-size="18" letter-spacing="1">
+  <g fill="#F8FAFC" font-family="monospace" font-size="18" letter-spacing="1">
     <text x="478" y="132">Star</text>
     <text x="696" y="132">Collaborate</text>
     <text x="954" y="132">Support</text>
   </g>
-  <g clip-path="url(#actions-slice)" font-family="monospace" font-size="18" letter-spacing="1" opacity="0" fill="#ff3158">
+  <g clip-path="url(#actions-slice)" font-family="monospace" font-size="18" letter-spacing="1" opacity="0" fill="#00B9FF">
     <text x="478" y="132">Star</text>
     <text x="696" y="132">Collaborate</text>
     <text x="954" y="132">Support</text>
     <animate attributeName="opacity" values="0;0;.72;.12;0;0" keyTimes="0;.68;.7;.72;.74;1" dur="2.8s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 0;4 0;-2 1;0 0;0 0" keyTimes="0;.68;.7;.72;.74;1" dur="2.8s" repeatCount="indefinite"/>
   </g>
-  <g clip-path="url(#actions-slice)" font-family="monospace" font-size="18" letter-spacing="1" opacity="0" fill="#00f0ff">
+  <g clip-path="url(#actions-slice)" font-family="monospace" font-size="18" letter-spacing="1" opacity="0" fill="#3B82F6">
     <text x="478" y="132">Star</text>
     <text x="696" y="132">Collaborate</text>
     <text x="954" y="132">Support</text>
     <animate attributeName="opacity" values="0;0;.62;.08;0;0" keyTimes="0;.68;.7;.72;.74;1" dur="2.8s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 0;-4 0;2 -1;0 0;0 0" keyTimes="0;.68;.7;.72;.74;1" dur="2.8s" repeatCount="indefinite"/>
   </g>
-  <g fill="#ff3158" font-family="monospace" font-size="17" opacity=".8">
+  <g fill="#00B9FF" font-family="monospace" font-size="17" opacity=".8">
     <text x="590" y="132">•</text><text x="866" y="132">•</text>
   </g>
-  <text x="740" y="174" text-anchor="middle" fill="#9cecf2" font-family="monospace" font-size="16" letter-spacing="1">Great things are built one commit at a time.</text>
+  <text x="740" y="174" text-anchor="middle" fill="#F8FAFC" font-family="monospace" font-size="16" letter-spacing="1">Great things are built one commit at a time.</text>
   <g clip-path="url(#motto-slice)" font-family="monospace" font-size="16" letter-spacing="1" text-anchor="middle">
-    <text x="744" y="174" fill="#ff3158" opacity="0">Great things are built one commit at a time.
+    <text x="744" y="174" fill="#00B9FF" opacity="0">Great things are built one commit at a time.
       <animate attributeName="opacity" values="0;0;.65;.12;0;0" keyTimes="0;.64;.66;.68;.7;1" dur="3.6s" repeatCount="indefinite"/>
       <animate attributeName="x" values="744;744;750;747;744;744" keyTimes="0;.64;.66;.68;.7;1" dur="3.6s" repeatCount="indefinite"/>
     </text>
-    <text x="736" y="174" fill="#00f0ff" opacity="0">Great things are built one commit at a time.
+    <text x="736" y="174" fill="#3B82F6" opacity="0">Great things are built one commit at a time.
       <animate attributeName="opacity" values="0;0;.55;.08;0;0" keyTimes="0;.64;.66;.68;.7;1" dur="3.6s" repeatCount="indefinite"/>
       <animate attributeName="x" values="736;736;730;733;736;736" keyTimes="0;.64;.66;.68;.7;1" dur="3.6s" repeatCount="indefinite"/>
     </text>
   </g>
-  <text x="410" y="198" fill="#72939a" font-family="monospace" font-size="10" letter-spacing="2">// SESSION CLOSED — UNTIL THE NEXT COMMIT</text>
+  <text x="410" y="198" fill="#94A3B8" font-family="monospace" font-size="10" letter-spacing="2">// SESSION CLOSED — UNTIL THE NEXT COMMIT</text>
 
   <!-- Animated glitch signal wave serves as the footer. -->
   <path d="M0 238h1200" stroke="url(#cta-line)" stroke-width="1" opacity=".65"/>
   <g fill="none" stroke-linecap="square">
-    <path d="M0 244h90l12-10h64l12 10h130l10-7h86l12 7h170l14-12h92l12 12h170l12-7h94l12 7h120l12-10h78l12 10h102" stroke="#00f0ff" stroke-width="2" opacity=".75">
+    <path d="M0 244h90l12-10h64l12 10h130l10-7h86l12 7h170l14-12h92l12 12h170l12-7h94l12 7h120l12-10h78l12 10h102" stroke="#3B82F6" stroke-width="2" opacity=".75">
       <animateTransform attributeName="transform" type="translate" values="0 0;-14 0;0 0;5 0;0 0" dur="4.2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".75;.35;.9;.45;.75" dur="4.2s" repeatCount="indefinite"/>
     </path>
-    <path d="M0 252h120l8-6h74l10 6h140l12-11h60l10 11h190l10-6h90l10 6h190l12-11h80l10 11h174" stroke="#9cecf2" stroke-width="1.5" opacity=".7">
+    <path d="M0 252h120l8-6h74l10 6h140l12-11h60l10 11h190l10-6h90l10 6h190l12-11h80l10 11h174" stroke="#F8FAFC" stroke-width="1.5" opacity=".7">
       <animateTransform attributeName="transform" type="translate" values="0 0;9 0;-4 0;0 0" dur="3.1s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".7;.2;.85;.5;.7" dur="3.1s" repeatCount="indefinite"/>
     </path>
   </g>
-  <path d="M90 262h1020" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 14" opacity=".5">
+  <path d="M90 262h1020" stroke="#3B82F6" stroke-width="1" stroke-dasharray="2 14" opacity=".5">
     <animate attributeName="stroke-dashoffset" values="0;-64" dur="2.8s" repeatCount="indefinite"/>
   </path>
 </svg>

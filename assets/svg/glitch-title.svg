@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title description">
   <title id="title">NarainKarthik Vellingiri</title>
-  <desc id="description">Hi, I'm NarainKarthik Vellingiri. AI Augmented Software Engineer | Cloud &amp; DevOps Enthusiast, alternating every 5 seconds with FOSS Developer | Gamer. A chibi hacker wears wired earbuds, sits at a desk using a MacBook-style laptop, and waves from the right. Welcome to my GitHub Profile!</desc>
+  <desc id="description">Hi, I'm NarainKarthik Vellingiri. AI Augmented Software Engineer | Cloud &amp; DevOps Enthusiast, alternating every 5 seconds with BUILDING FOSS · LEVELING UP IRL · BOOKSHELF &amp; SCREEN NERD. A chibi hacker wears wired earbuds, sits at a desk using a MacBook-style laptop, and waves from the right. &gt;&gt; ACCESS GRANTED: EXPLORE MY WORK</desc>
   <defs>
     <clipPath id="glitch-slice-a"><rect x="0" y="75" width="1200" height="12"/></clipPath>
     <clipPath id="glitch-slice-b"><rect x="0" y="101" width="1200" height="7"/></clipPath>
     <linearGradient id="signal" x1="0" x2="1">
-      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
-      <stop offset=".22" stop-color="#00f0ff" stop-opacity=".72"/>
-      <stop offset=".78" stop-color="#00f0ff" stop-opacity=".72"/>
-      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#3B82F6" stop-opacity=".72"/>
+      <stop offset=".78" stop-color="#3B82F6" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
     </linearGradient>
     <filter id="micro-distortion" x="-3%" y="-18%" width="106%" height="136%">
       <feTurbulence type="fractalNoise" baseFrequency=".025 .08" numOctaves="1" seed="2" result="noise">
@@ -20,25 +20,27 @@
     </filter>
   </defs>
 
-  <path d="M38 34h48M38 218h48" fill="none" stroke="#00f0ff" stroke-width="2" opacity=".65"/>
-  <text x="60" y="62" fill="#00f0ff" font-family="monospace" font-size="18" letter-spacing="4">HI 👋, I'M</text>
+  <g id="left-signal-strips" fill="none" stroke="#3B82F6" stroke-width="2" stroke-linecap="square" opacity=".65">
+    <path d="M20 48h22M26 58h16M20 68h22M20 198h22M26 208h16M20 218h22"/>
+  </g>
+  <text x="60" y="62" fill="#3B82F6" font-family="monospace" font-size="18" letter-spacing="4">HI 👋, I'M</text>
 
-  <text x="60" y="124" fill="#eafcff" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1" filter="url(#micro-distortion)">NarainKarthik Vellingiri!</text>
+  <text x="60" y="124" fill="#F8FAFC" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1" filter="url(#micro-distortion)">NarainKarthik Vellingiri!</text>
   <g clip-path="url(#glitch-slice-a)">
-    <text x="67" y="124" fill="#ff3158" opacity=".78" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1">NarainKarthik Vellingiri!
+    <text x="67" y="124" fill="#00B9FF" opacity=".78" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1">NarainKarthik Vellingiri!
       <animate attributeName="x" values="67;74;54;67;62;67" dur="2.3s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".78;.15;.9;0;.8;.78" dur="2.3s" repeatCount="indefinite"/>
     </text>
   </g>
   <g clip-path="url(#glitch-slice-b)">
-    <text x="52" y="124" fill="#00f0ff" opacity=".76" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1">NarainKarthik Vellingiri!
+    <text x="52" y="124" fill="#3B82F6" opacity=".76" font-family="monospace" font-size="55" font-weight="700" letter-spacing="1">NarainKarthik Vellingiri!
       <animate attributeName="x" values="52;46;69;52;59;52" dur="1.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".76;0;.9;.15;.75;.76" dur="1.8s" repeatCount="indefinite"/>
     </text>
   </g>
 
   <path d="M60 146h850" stroke="url(#signal)" stroke-width="1"/>
-  <g id="avatar-hud" fill="none" stroke="#00f0ff" opacity=".38">
+  <g id="avatar-hud" fill="none" stroke="#3B82F6" opacity=".38">
     <circle cx="1080" cy="128" r="91" stroke-dasharray="2 9" stroke-width="1">
       <animateTransform attributeName="transform" type="rotate" values="0 1080 128;360 1080 128" dur="34s" repeatCount="indefinite"/>
     </circle>
@@ -47,67 +49,67 @@
   </g>
 
   <g id="chibi-hacker" aria-label="Chibi hacker wearing wired earbuds, sitting at a desk, using a laptop and waving">
-    <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#00f0ff" opacity=".12"/>
+    <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#3B82F6" opacity=".12"/>
 
-    <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#00f0ff" stroke-width="1.5"/>
+    <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5"/>
     <g transform="translate(0 -9)">
-    <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#101820" stroke="#00f0ff" stroke-width="2"/>
-    <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#18242d" stroke="#00f0ff" stroke-width="2"/>
-    <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#0a1118" stroke="#00f0ff" stroke-width="1.5" opacity=".8"/>
+    <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#0F172A" stroke="#3B82F6" stroke-width="2"/>
+    <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+    <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#020617" stroke="#3B82F6" stroke-width="1.5" opacity=".8"/>
 
-    <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#00f0ff" stroke-width="1.5"/>
-    <path d="M1055 98h13m25 0h13" stroke="#0b1319" stroke-width="4" stroke-linecap="round"/>
-    <path d="M1074 119q8 6 16 0" fill="none" stroke="#0b1319" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5"/>
+    <path d="M1055 98h13m25 0h13" stroke="#020617" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1074 119q8 6 16 0" fill="none" stroke="#020617" stroke-width="2" stroke-linecap="round"/>
     </g>
 
     <!-- Small wired earbuds, with the cord routed toward the laptop. -->
-    <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#18242d" stroke="#00f0ff" stroke-width="1.5"/>
-    <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#18242d" stroke="#00f0ff" stroke-width="1.5"/>
-    <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#9cecf2" stroke-width="1.2" stroke-linecap="round" opacity=".75"/>
-    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#18242d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#00f0ff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+    <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+    <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5"/>
+    <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#F8FAFC" stroke-width="1.2" stroke-linecap="round" opacity=".75"/>
+    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#3B82F6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
 
-    <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#101820" stroke="#00f0ff" stroke-width="2"/>
-    <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#18242d" stroke="#243943" stroke-width="1.5"/>
-    <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#00f0ff" stroke-width="2" opacity=".72"/>
+    <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#0F172A" stroke="#3B82F6" stroke-width="2"/>
+    <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#1E293B" stroke="#334155" stroke-width="1.5"/>
+    <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#3B82F6" stroke-width="2" opacity=".72"/>
     <!-- Keyboard arm stays behind the display, reaching forward from the shoulder. -->
-    <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#00f0ff" stroke-width="17" stroke-linecap="round"/>
-    <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#18242d" stroke-width="11" stroke-linecap="round"/>
+    <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#3B82F6" stroke-width="17" stroke-linecap="round"/>
+    <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#1E293B" stroke-width="11" stroke-linecap="round"/>
     <!-- Seated legs peek beneath the desk. -->
-    <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#111920" stroke="#00f0ff" stroke-width="2"/>
+    <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#020617" stroke="#3B82F6" stroke-width="2"/>
 
     <!-- Desk and open laptop, arranged in front of the seated torso. -->
-    <path d="M978 177h216l-7 9H985z" fill="#18242d" stroke="#00f0ff" stroke-width="2"/>
-    <path d="M991 186h190v34H991z" fill="#101820" stroke="#243943" stroke-width="1.5"/>
-    <path d="M1000 190v25m172-25v25" stroke="#00f0ff" stroke-width="1" opacity=".5"/>
-    <rect x="1012" y="122" width="91" height="43" rx="3" fill="#090f14" stroke="#00f0ff" stroke-width="2"/>
-    <rect x="1017" y="127" width="81" height="33" rx="1" fill="#12232b" stroke="#243943" stroke-width="1" opacity=".95"/>
-    <g transform="translate(264 36) scale(.75) translate(-1 -2)" fill="#9cecf2">
+    <path d="M978 177h216l-7 9H985z" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+    <path d="M991 186h190v34H991z" fill="#0F172A" stroke="#334155" stroke-width="1.5"/>
+    <path d="M1000 190v25m172-25v25" stroke="#3B82F6" stroke-width="1" opacity=".5"/>
+    <rect x="1012" y="122" width="91" height="43" rx="3" fill="#020617" stroke="#3B82F6" stroke-width="2"/>
+    <rect x="1017" y="127" width="81" height="33" rx="1" fill="#1E293B" stroke="#334155" stroke-width="1" opacity=".95"/>
+    <g transform="translate(474 64) scale(.55)" fill="#F8FAFC">
       <path d="M1058 138c-3-2-8-2-10 1-3 3-3 8-1 13 2 4 4 7 7 7 2 0 3-1 5-1s3 1 5 1c3 0 6-5 7-10-4-1-5-5-1-8-3-4-7-5-12-3z"/>
-      <circle cx="1068" cy="142" r="2.7" fill="#12232b"/>
+      <circle cx="1068" cy="142" r="2.7" fill="#1E293B"/>
       <path d="M1059 136c1-3 4-5 7-5 0 3-2 5-5 6z"/>
     </g>
-    <path d="M1004 165h108l9 9h-126z" fill="#263b43" stroke="#00f0ff" stroke-width="1.5"/>
-    <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#9cecf2" stroke-width=".8" opacity=".5"/>
+    <path d="M1004 165h108l9 9h-126z" fill="#334155" stroke="#3B82F6" stroke-width="1.5"/>
+    <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#F8FAFC" stroke-width=".8" opacity=".5"/>
 
     <!-- Keyboard hand rests across the laptop base. -->
     <g id="wave-arm">
-      <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#00f0ff" stroke-width="24" stroke-linecap="round"/>
-      <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#18242d" stroke-width="17" stroke-linecap="round"/>
-      <path d="M1157 82c-7-4-9-10-7-15l5-13c1-4 5-5 7-2l-1 12 5-20c1-4 6-5 8-1l-2 19 6-16c2-4 7-3 8 1l-5 19 7-10c3-3 6-3 5 2l-7 19c-4 9-14 13-23 8z" fill="#c9a58c" stroke="#00f0ff" stroke-width="2" stroke-linejoin="round"/>
-      <path d="M1156 72l5 3m7-8 5 2m7-4 4 3" stroke="#9cecf2" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
+      <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#3B82F6" stroke-width="24" stroke-linecap="round"/>
+      <path d="M1118 139c17-11 30-27 41-43l8-18" fill="none" stroke="#1E293B" stroke-width="17" stroke-linecap="round"/>
+      <path d="M1157 82c-7-4-9-10-7-15l5-13c1-4 5-5 7-2l-1 12 5-20c1-4 6-5 8-1l-2 19 6-16c2-4 7-3 8 1l-5 19 7-10c3-3 6-3 5 2l-7 19c-4 9-14 13-23 8z" fill="#c9a58c" stroke="#3B82F6" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M1156 72l5 3m7-8 5 2m7-4 4 3" stroke="#F8FAFC" stroke-width="1.5" stroke-linecap="round" opacity=".8"/>
       <animateTransform attributeName="transform" type="rotate" values="0 1118 139;-8 1118 139;2 1118 139;0 1118 139" keyTimes="0;.35;.68;1" dur="1.25s" repeatCount="indefinite"/>
     </g>
 
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.4s" repeatCount="indefinite"/>
   </g>
-  <text x="60" y="178" fill="#9cecf2" font-family="monospace" font-size="19" letter-spacing="1.5">AI Augmented Software Engineer | Cloud &amp; DevOps Enthusiast
+  <text x="60" y="178" fill="#F8FAFC" font-family="monospace" font-size="19" letter-spacing="1.5">AI Augmented Software Engineer | Cloud &amp; DevOps Enthusiast
     <animate attributeName="opacity" values="1;1;.55;.9;.12;0;0;0;.4;.08;.8;1;1" keyTimes="0;.45;.46;.47;.48;.49;.5;.95;.96;.97;.98;.99;1" dur="10s" repeatCount="indefinite"/>
     <animate attributeName="x" values="60;60;63;57;60;60;60;60;56;64;60;60;60" keyTimes="0;.45;.46;.47;.48;.49;.5;.95;.96;.97;.98;.99;1" dur="10s" repeatCount="indefinite"/>
   </text>
-  <text x="60" y="178" fill="#9cecf2" font-family="monospace" font-size="19" letter-spacing="1.5" opacity="0">FOSS Developer | Gamer
+  <text x="60" y="178" fill="#F8FAFC" font-family="monospace" font-size="19" letter-spacing="1.5" opacity="0">BUILDING FOSS · LEVELING UP IRL · BOOKSHELF &amp; SCREEN NERD
     <animate attributeName="opacity" values="0;0;.45;.08;.88;1;1;1;.6;.92;.2;0;0" keyTimes="0;.45;.46;.47;.48;.49;.5;.95;.96;.97;.98;.99;1" dur="10s" repeatCount="indefinite"/>
     <animate attributeName="x" values="60;60;57;64;60;60;60;60;64;56;60;60;60" keyTimes="0;.45;.46;.47;.48;.49;.5;.95;.96;.97;.98;.99;1" dur="10s" repeatCount="indefinite"/>
   </text>
-  <text x="60" y="215" fill="#72939a" font-family="monospace" font-size="15" letter-spacing="2">Welcome to my GitHub Profile!</text>
+  <text x="60" y="215" fill="#94A3B8" font-family="monospace" font-size="15" letter-spacing="2">&gt;&gt; ACCESS GRANTED: EXPLORE MY WORK</text>
 </svg>
