@@ -22,30 +22,9 @@
 </div>
 
 
-<img align="right" src="assets/svg/glitch-about.svg" width="35%" alt="Hooded chibi developer thinking and sipping coffee, with thought dots leading to cloud and interface ideas." />
+### 🚀 Quick Bio
 
-### 👤 About Me
-
-- 🌍 **Digital Nomad**: On a mission to make the web a more delightful place
-- 🎨 **UI Craftsman**: Crafting sleek user interfaces with passion
-- ☁️ **Cloud Automator**: Streamlining workflows and building scalable solutions
-- 🔧 **Electronics Tinkerer**: Exploring hardware and bringing creativity to
-  tech
-- 🧠 **Lifelong Learner**: Embracing curiosity, clarity, and continuous growth
-
-### 🟢 What I'm Up To Now
-
-<p><code>01 ━</code> &nbsp; 🌱 <strong>LEARNING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;AI-powered web apps, DevOps &amp; Cloud</p>
-<p><code>02 ━</code> &nbsp; 🛠️ <strong>BUILDING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Creative, user-first side projects</p>
-<p><code>03 ━</code> &nbsp; 🤝 <strong>OPEN TO</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Collaboration, freelance &amp; tech discussions</p>
-
-### 🧠 Developer Mindset
-
-> **“Build. Break. Learn. Repeat.”** Great software is crafted through curiosity, discipline, and continuous iteration.
-
-<br clear="right" />
-
-## 🚀 Quick Bio
+<img src="assets/svg/glitch-divider.svg" width="100%" height="3" alt="" />
 
 ```js
 const wisdomFox = {
@@ -59,7 +38,31 @@ const wisdomFox = {
 ```
 
 
-## 💻 Tech Arsenal
+### 👤 About Me
+
+- 🌍 **Digital Nomad**: On a mission to make the web a more delightful place
+- 🎨 **UI Craftsman**: Crafting sleek user interfaces with passion
+- ☁️ **Cloud Automator**: Streamlining workflows and building scalable solutions
+- 🔧 **Electronics Tinkerer**: Exploring hardware and bringing creativity to
+  tech
+- 🧠 **Lifelong Learner**: Embracing curiosity, clarity, and continuous growth
+
+<img align="left" src="assets/svg/glitch-about.svg" width="35%" alt="Chibi developer typing at a laptop, with a thought cloud cycling through topics, a pirate doll on the desk, and a puppy below." />
+
+### 🤓 Fun Facts & Quirks
+
+- 🦊 Fox vibes: curious, adaptable, and weirdly stubborn about my tech choices
+- 🧑‍🍳 Can actually cook ramen while shipping code. (priorities are weird sometimes lol)
+- 🏆 I learn by building, breaking things publicly, and not being afraid to look dumb
+- ⚡ Coffee + debugging sessions + zero chill = my entire existence
+- 🐧 Linux > everything else. Windows just... doesn't spark joy
+- 🎮 Video games taught me that there's always another way. Gives me patience with code
+
+<br clear="left" />
+
+### 💻 Tech Arsenal
+
+<img src="assets/svg/glitch-divider.svg" width="100%" height="3" alt="" />
 
 <div align="center">
 
@@ -131,7 +134,9 @@ const wisdomFox = {
 --- -->
 
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
+
+<img src="assets/svg/glitch-divider.svg" width="100%" height="3" alt="" />
 
 ```text
 PROJECT INDEX // 05 ENTRIES
@@ -187,18 +192,20 @@ PROJECT INDEX // 05 ENTRIES
 
 
 
-## 🤓 Fun Facts & Quirks
+### 🟢 What I'm Up To Now
 
-- 🦊 Fox vibes: curious, adaptable, and weirdly stubborn about my tech choices
-- 🧑‍🍳 Can actually cook ramen while shipping code. (priorities are weird sometimes lol)
-- 🏆 I learn by building, breaking things publicly, and not being afraid to look dumb
-- ⚡ Coffee + debugging sessions + zero chill = my entire existence
-- 🐧 Linux > everything else. Windows just... doesn't spark joy
-- 🎮 Video games taught me that there's always another way. Gives me patience with code
+<p><code>01 ━</code> &nbsp; 🌱 <strong>LEARNING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;AI-powered web apps, DevOps &amp; Cloud</p>
+<p><code>02 ━</code> &nbsp; 🛠️ <strong>BUILDING</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Creative, user-first side projects</p>
+<p><code>03 ━</code> &nbsp; 🤝 <strong>OPEN TO</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Collaboration, freelance &amp; tech discussions</p>
+
+### 🧠 Developer Mindset
+
+> **“Build. Break. Learn. Repeat.”** Great software is crafted through curiosity, discipline, and continuous iteration.
 
 
+### 📊 GitHub Activity
 
-## 📊 GitHub Activity
+<img src="assets/svg/glitch-divider.svg" width="100%" height="3" alt="" />
 
 <div align="center">
 
