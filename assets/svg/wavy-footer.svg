@@ -1,60 +1,28 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-
-<style>
-
-svg {
-  width:100vw;
-  position:fixed;
-  top:-5px;
-  transform: rotate(360deg);
-  overflow:visible;
-}
-
-.wave {
-  animation: wave 3s linear;
-  animation-iteration-count:infinite;
-  fill: #4478e3;  
-}
-
-.wave:hover {
-  fill: #0066cc;
-}
-
-#wave2 {
-  animation-duration:5s;
-  animation-direction: reverse;
-  opacity: .6
-}
-#wave3 {
-  animation-duration: 7s;
-  opacity:.3;
-}
-@keyframes wave {
-  to {transform: translateX(-100%);}
-}
-
-
-</style>
-
- <defs> 
-    <filter id="goo">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-      <feColorMatrix in="blur" mode="matrix" values="
-           1 0 0 0 0  
-           0 1 0 0 0  
-           0 0 1 0 0  
-           0 0 0 13 -9" result="goo" />
-      <xfeBlend in="SourceGraphic" in2="goo" />
-  	</filter>
-    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-  </defs> 
-  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
-<svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <a xlink:href="https://github.com/Trilokia" target="_top">
-  <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
-    @Trilokia
-  </text>
-  </a>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" preserveAspectRatio="none" role="presentation">
+  <defs>
+    <linearGradient id="footer-signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#00f0ff" stop-opacity=".75"/>
+      <stop offset=".82" stop-color="#00f0ff" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 40h1200" stroke="url(#footer-signal)" stroke-width="1" opacity=".65"/>
+  <g fill="none" stroke-linecap="square">
+    <path d="M0 46h90l12-12h64l12 12h130l10-8h86l12 8h170l14-14h92l12 14h170l12-8h94l12 8h120l12-12h78l12 12h102" stroke="#00f0ff" stroke-width="2" opacity=".75">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-14 0;0 0;5 0;0 0" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".75;.35;.9;.45;.75" dur="4.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 54h120l8-7h74l10 7h140l12-13h60l10 13h190l10-7h90l10 7h190l12-13h80l10 13h174" stroke="#ff3158" stroke-width="2" opacity=".72">
+      <animateTransform attributeName="transform" type="translate" values="0 0;9 0;-4 0;0 0" dur="3.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".72;.15;.85;.5;.72" dur="3.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M90 66h1020" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 14" opacity=".55">
+    <animate attributeName="stroke-dashoffset" values="0;-64" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <rect x="0" y="25" width="1200" height="1" fill="#00f0ff" opacity="0">
+    <animate attributeName="y" values="25;70;25" dur="3.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.35;0" dur="3.7s" repeatCount="indefinite"/>
+  </rect>
 </svg>

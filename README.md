@@ -1,58 +1,30 @@
 <div align="center">
 
-![Header](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wisdom-fox.svg)
+<img src="assets/svg/glitch-title.svg" width="100%" alt="Hi, I'm NarainKarthik Vellingiri! AI Augmented Software Engineer | Cloud DevOps Enthusiast. Welcome to my GitHub Profile. Chibi hacker sitting at a desk, using a laptop and waving." />
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+NarainKarthik+Vellingiri!;Web+Developer+%7C+Cloud%2FDevOps+Enthusiast;Welcome+to+my+GitHub+Profile!)
-
-</div>
 
 <div align="center">
 
 <p>
-<a href="https://narainkarthikv.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"></a>
-<a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<a href="https://www.buymeacoffee.com/narainkarthikv"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<a href="https://narainkarthikv.com"><img src="https://img.shields.io/badge/Portfolio-101820?style=for-the-badge&logo=firefox&logoColor=00F0FF"></a>
+<a href="https://ko-fi.com/wisdom-fox"><img src="https://img.shields.io/badge/Support_My_Work-101820?style=for-the-badge&logo=ko-fi&logoColor=FF3158"></a>
+<a href="https://www.buymeacoffee.com/narainkarthikv"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-101820?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFD166"></a>
 <!-- <a href="https://discord.gg/cb6tqTfk"><img src="https://img.shields.io/badge/Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> -->
-<a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/narainkarthik-vellingiri/"><img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=00F0FF"></a>
+<a href="https://www.gitlab.com/narainkarthikv"><img src="https://img.shields.io/badge/GitLab-101820?style=for-the-badge&logo=gitlab&logoColor=FF3158"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=brightgreen&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=social" alt="GitHub Followers"/>
+<img src="https://komarev.com/ghpvc/?username=narainkarthikv&color=00F0FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/narainkarthikv?label=Followers&style=for-the-badge&color=101820&labelColor=00F0FF" alt="GitHub Followers"/>
 
 </div>
 
----
 
-<div align="center">
-
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="40%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
-</td>
-
-<td align="center" width="60%">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjez2sc5umwskdatczxceb3xdi&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kjez2sc5umwskdatczxceb3xdi&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-💫 **Hey there!** I'm **NarainKarthik Vellingiri** (aka 🦊 **Wisdom Fox**)
+<td valign="middle" width="65%">
 
 - 🌍 **Digital Nomad**: On a mission to make the web a more delightful place
 - 🎨 **UI Craftsman**: Crafting sleek user interfaces with passion
@@ -61,7 +33,19 @@
   tech
 - 🧠 **Lifelong Learner**: Embracing curiosity, clarity, and continuous growth
 
----
+### 🟢 What I'm Up To Now
+
+- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
+- 🛠️ Building: Creative, user-first side projects
+- 🤝 Open to: Collaboration, freelance & tech discussions
+
+</td>
+<td align="right" valign="middle" width="35%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
+
 
 ## 🚀 Quick Bio
 
@@ -76,14 +60,15 @@ const wisdomFox = {
 };
 ```
 
+
 ## 💻 Tech Arsenal
 
 <div align="center">
 
-<table>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
 <tr>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33.33%" align="center">
 
 ### 🎨 Frontend
 
@@ -97,7 +82,7 @@ const wisdomFox = {
 
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33.33%" align="center">
 
 ### ⚡ Backend & Cloud
 
@@ -111,7 +96,7 @@ const wisdomFox = {
 
 </td>
 
-<td valign="top" width="33%" align="center">
+<td valign="top" width="33.33%" align="center">
 
 ### 🛠️ DevOps & Tools
 
@@ -131,7 +116,6 @@ const wisdomFox = {
 </div>
 
 
----
 
 <!-- ## ♥️✨ Coding & Chilling
 
@@ -148,23 +132,24 @@ const wisdomFox = {
 
 --- -->
 
+
 ## 🌟 Featured Projects
 
-<table>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
 
 <tr>
-<th align="left">Project Image</th>
-<th align="left">Project Description</th>
+<th align="left" width="22%">Project Image</th>
+<th align="left" width="78%">Project Description</th>
 </tr>
 
 <tr>
-<td>
+<td width="22%">
 <a href="https://fitprogressr.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fitprogressr.jpg" width="160" />
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/fitprogressr.jpg" width="100%" />
 </a>
 </td>
 
-<td>
+<td width="78%">
 
 ### FitProgressr
 
@@ -176,13 +161,13 @@ tracking.
 </tr>
 
 <tr>
-<td>
+<td width="22%">
 <a href="https://ownlyst.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/ownlyst.jpg" width="160" />
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/ownlyst.jpg" width="100%" />
 </a>
 </td>
 
-<td>
+<td width="78%">
 
 ### Ownlyst
 
@@ -193,13 +178,13 @@ and zero server dependency for distraction-free productivity.
 </tr>
 
 <tr>
-<td>
+<td width="22%">
 <a href="https://nmoji.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="160" />
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/nmoji.jpg" width="100%" />
 </a>
 </td>
 
-<td>
+<td width="78%">
 
 ### Nmoji
 
@@ -210,13 +195,13 @@ filtering, keyboard-first navigation, and extension-ready performance.
 </tr>
 
 <tr>
-<td>
+<td width="22%">
 <a href="https://contribution-cards.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="160" />
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/contribution-cards.jpg" width="100%" />
 </a>
 </td>
 
-<td>
+<td width="78%">
 
 ### Contribution Cards
 
@@ -227,13 +212,13 @@ surfacing without requiring a backend service.
 </tr>
 
 <tr>
-<td>
+<td width="22%">
 <a href="https://markdownshop.netlify.app/">
-<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/markdown-shop.jpg" width="160" />
+<img src="https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/images/markdown-shop.jpg" width="100%" />
 </a>
 </td>
 
-<td>
+<td width="78%">
 
 ### Markdown Shop
 
@@ -245,22 +230,14 @@ templates, and badge components for faster developer documentation.
 
 </table>
 
----
 
-## 🟢 What I'm Up To Now
-
-- 🌱 Learning: **AI-powered web apps, DevOps & Cloud**
-- 🛠️ Building: Creative, user-first side projects
-- 🤝 Open to: Collaboration, freelance & tech discussions
-
----
 
 ## 🧠 Developer Mindset
 
 > **“Build. Break. Learn. Repeat.”** Great software is crafted through
 > curiosity, discipline, and continuous iteration.
 
----
+
 
 ## 🤓 Fun Facts & Quirks
 
@@ -271,7 +248,7 @@ templates, and badge components for faster developer documentation.
 - 🐧 Linux > everything else. Windows just... doesn't spark joy
 - 🎮 Video games taught me that there's always another way. Gives me patience with code
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -287,20 +264,7 @@ templates, and badge components for faster developer documentation.
 
 </div>
 
----
 
-<div align="center">
+<img src="assets/svg/glitch-divider.svg" width="100%" height="3" alt="" />
 
-### 🚀 Let’s Build, Learn & Ship Together
-
-**⭐ Star • 🤝 Collaborate • ☕ Support**
-
-_Great things are built one commit at a time._
-
-</div>
-
-<div align="center">
-
-![Footer](https://github.com/narainkarthikv/narainkarthikv/blob/main/assets/svg/wavy-footer.svg)
-
-</div>
+<img src="assets/svg/glitch-cta.svg" width="100%" alt="A chibi hacker waves goodbye beside Let’s Build, Learn & Ship Together. Star, Collaborate, Support. Great things are built one commit at a time." />
