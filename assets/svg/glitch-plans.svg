@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title description">
+  <title id="title">Glitch Plans</title>
+  <desc id="description">A chibi developer plans AI-powered apps, cloud and DevOps learning, full-stack projects with CI/CD, and future collaborations. A Zuko figurine sits on the right side of the desk beneath a glowing idea bulb.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2d" />
+      <stop offset="1" stop-color="#15132a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00c8ff" />
+      <stop offset="1" stop-color="#8b7bff" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#8aa3c7" stroke-opacity=".06" />
+    </pattern>
+    <clipPath id="screen-clip">
+      <rect x="8" y="8" width="744" height="344" rx="18" />
+    </clipPath>
+    <clipPath id="title-slice">
+      <rect x="18" y="16" width="260" height="18" />
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="358" rx="20" fill="#080d18" stroke="none" />
+  <rect x="2" y="2" width="756" height="356" rx="19" fill="url(#grid)">
+    <animate attributeName="opacity" values=".65;.9;.72;1;.65" keyTimes="0;.22;.48;.53;1" dur="4.6s" repeatCount="indefinite" />
+  </rect>
+  <path d="M20 44H740" stroke="#25334a" />
+  <path d="M20 44H186" stroke="url(#accent)" stroke-width="2">
+    <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite" />
+  </path>
+  <text x="22" y="30" fill="#7ddfff" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2">THE PLAN: BUILD &amp; GROW</text>
+  <g clip-path="url(#title-slice)">
+    <text x="25" y="30" fill="#00c8ff" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2" opacity="0">THE PLAN: BUILD &amp; GROW
+      <animate attributeName="x" values="25;31;16;25;28;25" keyTimes="0;.31;.34;.38;.4;1" dur="3.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;.72;.12;.82;0;0" keyTimes="0;.31;.34;.38;.4;1" dur="3.6s" repeatCount="indefinite" />
+    </text>
+  </g>
+  <circle cx="610" cy="26" r="2.5" fill="#38d9ff">
+    <animate attributeName="opacity" values=".35;1;.25;.8;.35" dur="1.8s" repeatCount="indefinite" />
+    <animate attributeName="r" values="2.2;3.2;2.2" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="738" y="30" text-anchor="end" fill="#91a2bb" font-family="monospace" font-size="10" letter-spacing="1.4">STATUS: SHIPPING</text>
+
+  <g transform="translate(-960 66)">
+    <g id="chibi-hacker" aria-label="Chibi developer planning at a laptop as an idea lightbulb glows overhead">
+      <ellipse cx="1080" cy="226" rx="105" ry="7" fill="#3B82F6" opacity=".12" />
+      <path d="M1065 112c8 6 22 6 30 0l5 18h-40z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5" />
+      <g transform="translate(0 -9)">
+        <path d="M1034 104C1025 61 1044 35 1081 31c39 0 58 28 48 73l-9 23h-77z" fill="#0F172A" stroke="#3B82F6" stroke-width="2" />
+        <path d="M1043 65c8-29 60-38 81-8l13 13c-32-8-61-7-103 3z" fill="#1E293B" stroke="#3B82F6" stroke-width="2" />
+        <path d="M1040 69c28-10 69-13 105-2l-2 8c-35-5-68-3-103 4z" fill="#020617" stroke="#3B82F6" stroke-width="1.5" opacity=".8" />
+        <path d="M1048 76c12-12 55-14 68 0l5 29c-4 17-16 26-38 26-23 0-35-12-39-27z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.5" />
+        <path d="M1055 98h13m25 0h13" stroke="#020617" stroke-width="4" stroke-linecap="round" />
+        <path d="M1074 119q8 6 16 0" fill="none" stroke="#020617" stroke-width="2" stroke-linecap="round" />
+      </g>
+      <ellipse cx="1038" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5" />
+      <ellipse cx="1124" cy="78" rx="6" ry="9" fill="#1E293B" stroke="#3B82F6" stroke-width="1.5" />
+      <path d="M1038 73v8m-2-5v5m86-8v8m2-5v5" stroke="#F8FAFC" stroke-width="1.2" stroke-linecap="round" opacity=".75" />
+      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M1038 87c1 12-2 19-10 25-8 6-12 12-12 23v16" fill="none" stroke="#3B82F6" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85" />
+      <path d="M1045 128c20-11 53-12 73 0l18 44h-108z" fill="#0F172A" stroke="#3B82F6" stroke-width="2" />
+      <path d="M1052 129l28 22 29-22 11 39h-82z" fill="#1E293B" stroke="#334155" stroke-width="1.5" />
+      <path d="M1080 151v16m-11-16 11 9 12-9" fill="none" stroke="#3B82F6" stroke-width="2" opacity=".72" />
+      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#3B82F6" stroke-width="17" stroke-linecap="round" />
+      <path d="M1050 140c-12 8-23 19-31 29" fill="none" stroke="#1E293B" stroke-width="11" stroke-linecap="round" />
+      <path d="M1054 169c-4 12-12 24-24 31l-15 8 4 8h48l18-22-5-25zm49 0 5 25 20 13 22 1 3-8-18-8-13-23z" fill="#020617" stroke="#3B82F6" stroke-width="2" />
+      <path d="M978 177h216l-7 9H985z" fill="#1E293B" stroke="#3B82F6" stroke-width="2" />
+      <path d="M991 186h190v34H991z" fill="#0F172A" stroke="#334155" stroke-width="1.5" />
+      <path d="M1000 190v25m172-25v25" stroke="#3B82F6" stroke-width="1" opacity=".5" />
+      <rect x="1012" y="122" width="91" height="43" rx="3" fill="#020617" stroke="#3B82F6" stroke-width="2" />
+      <rect x="1017" y="127" width="81" height="33" rx="1" fill="#1E293B" stroke="#334155" stroke-width="1" opacity=".95" />
+      <g transform="translate(474 64) scale(.55)" fill="#F8FAFC">
+        <path d="M1058 138c-3-2-8-2-10 1-3 3-3 8-1 13 2 4 4 7 7 7 2 0 3-1 5-1s3 1 5 1c3 0 6-5 7-10-4-1-5-5-1-8-3-4-7-5-12-3z" />
+        <circle cx="1068" cy="142" r="2.7" fill="#1E293B" />
+        <path d="M1059 136c1-3 4-5 7-5 0 3-2 5-5 6z" />
+      </g>
+      <path d="M1004 165h108l9 9h-126z" fill="#334155" stroke="#3B82F6" stroke-width="1.5" />
+      <path d="M1016 168h84m-77 3h69m-61 3h54" stroke="#F8FAFC" stroke-width=".8" opacity=".5" />
+      <g id="thinking-arm">
+        <path d="M1118 139c-9-7-15-15-22-22" fill="none" stroke="#3B82F6" stroke-width="21" stroke-linecap="round" />
+        <path d="M1118 139c-9-7-15-15-22-22" fill="none" stroke="#1E293B" stroke-width="14" stroke-linecap="round" />
+        <path d="M1097 119c-5-2-8-6-7-10l2-5c1-2 4-2 5 0l2 4 1-7c0-2 3-3 4-1l1 7 2-4c1-2 4-1 4 1l-1 8c-1 5-5 8-10 8z" fill="#c9a58c" stroke="#3B82F6" stroke-width="1.8" stroke-linejoin="round" />
+        <animateTransform attributeName="transform" type="rotate" values="0 1118 139;-2 1118 139;0 1118 139" dur="3.2s" repeatCount="indefinite" />
+      </g>
+      <g id="zuko-figurine" transform="translate(1148 132)" aria-label="Small Zuko collectible figurine in a red Fire Nation outfit, with dark hair and his eye scar">
+        <ellipse cx="14" cy="43" rx="14" ry="2" fill="#020617" opacity=".5" />
+        <path d="M9 8c-2-6 1-10 6-10 5 0 8 4 6 10l-4 3H9z" fill="#111827" stroke="#3B82F6" stroke-width="1.2" />
+        <path d="M9 8c-3 2-4 7-2 13 2 4 4 6 8 6s7-3 8-8l-1-9c-4-4-9-5-13-2z" fill="#E8B99A" stroke="#3B82F6" stroke-width="1.2" />
+        <path d="M8 9c2-5 10-7 16-3l-1 5c-3-2-6-2-9-1l-4 6-4-1z" fill="#111827" />
+        <path d="M11 14h3m5 0h2" stroke="#111827" stroke-width="1.8" stroke-linecap="round" />
+        <path d="M18 8l3 3-2 3 3 3" fill="none" stroke="#C2413B" stroke-width="1.5" stroke-linecap="round" />
+        <path d="M12 20q3 2 6 0" fill="none" stroke="#7F1D1D" stroke-width="1" stroke-linecap="round" />
+        <path d="M8 25l-5 14h23l-5-14-6 3z" fill="#991B1B" stroke="#3B82F6" stroke-width="1.3" stroke-linejoin="round" />
+        <path d="M9 25l5 6 2 8h-5l-4-12zm11 0-5 6-2 8h5l4-12z" fill="#7F1D1D" stroke="#FBBF24" stroke-width="1" stroke-linejoin="round" />
+        <path d="M9 37h5v4H7q0-2 2-4zm7 0h5l3 4h-8z" fill="#111827" stroke="#3B82F6" stroke-width=".8" stroke-linejoin="round" />
+        <path d="M14 30l2 2 2-2" fill="none" stroke="#FDE68A" stroke-width="1" />
+      </g>
+      <g transform="translate(1134 12)" stroke-linecap="round" stroke-linejoin="round">
+        <circle r="13" fill="#FACC15" opacity=".08">
+          <animate attributeName="r" values="11;17;11" dur="2.4s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values=".06;.26;.08" dur="2.4s" repeatCount="indefinite" />
+        </circle>
+        <path d="M-6 0a6 6 0 1 1 12 0c0 2-2 4-3 6h-6c-1-2-3-4-3-6z" fill="#FEF3C7" stroke="#FACC15" stroke-width="1.7" />
+        <path d="M-3 8h6m-5 3h4m-2-23v-4m-11 5-3-3m22 3 3-3m-19 11h-4m26 0h-4" fill="none" stroke="#FDE68A" stroke-width="1.5" opacity=".2">
+          <animate attributeName="opacity" values=".12;1;.2;.75;.12" keyTimes="0;.18;.42;.68;1" dur="2.4s" repeatCount="indefinite" />
+        </path>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(124 144)" fill="none" stroke="#7ddfff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".2">
+    <path d="M0-7v14M-7 0h14M-5-5l10 10M5-5L-5 5" />
+    <animateTransform attributeName="transform" type="rotate" values="0 0 0;45 0 0;90 0 0" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values=".15;.9;.25;.65;.15" keyTimes="0;.2;.45;.7;1" dur="2.5s" repeatCount="indefinite" />
+  </g>
+
+  <rect x="282" y="62" width="456" height="274" rx="14" fill="url(#panel)" stroke="#2a3d59">
+    <animate attributeName="stroke" values="#2a3d59;#38577a;#493f70;#2a3d59" dur="5.4s" repeatCount="indefinite" />
+  </rect>
+  <path d="M302 108H718" stroke="#2a3d59" />
+  <path d="M304 109H716" stroke="url(#accent)" stroke-width="1" opacity="0">
+    <animate attributeName="d" values="M304 109H716;M304 327H716;M304 109H716" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;.18;.08;0" keyTimes="0;.12;.82;1" dur="7s" repeatCount="indefinite" />
+  </path>
+  <text x="304" y="92" fill="#f2f6ff" font-family="monospace" font-size="16" font-weight="700" letter-spacing="1.5">CURRENT QUESTS</text>
+  <text x="716" y="91" text-anchor="end" fill="#91a2bb" font-family="monospace" font-size="10" letter-spacing="1.3">3 QUESTS
+  </text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="294" y="120" width="430" height="54" rx="8" fill="#00c8ff" opacity="0">
+      <animate attributeName="opacity" values="0;.14;.05;0;0" keyTimes="0;.08;.2;.3;1" dur="9s" repeatCount="indefinite" />
+    </rect>
+    <rect x="294" y="184" width="430" height="54" rx="8" fill="#9b8cff" opacity="0">
+      <animate attributeName="opacity" values="0;.14;.05;0;0" keyTimes="0;.08;.2;.3;1" dur="9s" begin="3s" repeatCount="indefinite" />
+    </rect>
+    <rect x="294" y="248" width="430" height="54" rx="8" fill="#00c8ff" opacity="0">
+      <animate attributeName="opacity" values="0;.14;.05;0;0" keyTimes="0;.08;.2;.3;1" dur="9s" begin="6s" repeatCount="indefinite" />
+    </rect>
+    <rect x="307" y="132" width="18" height="18" rx="5" fill="#00c8ff" fill-opacity=".12" stroke="#38d9ff" />
+    <text x="316" y="145" text-anchor="middle" fill="#7ddfff" font-family="monospace" font-size="10" font-weight="700">&gt;_</text>
+    <text x="338" y="145" fill="#7ddfff" font-size="12" font-weight="700" letter-spacing="1.2">LEVELING UP</text>
+    <text x="338" y="165" fill="#e1e9f5" font-size="13">AI Apps + Cloud Infra + DevOps</text>
+    <path d="M304 180H716" stroke="#25334a" />
+    <rect x="307" y="196" width="18" height="18" rx="5" fill="#9b8cff" fill-opacity=".12" stroke="#a78bfa" />
+    <text x="316" y="209" text-anchor="middle" fill="#c4b5fd" font-family="monospace" font-size="10" font-weight="700">&gt;_</text>
+    <text x="338" y="209" fill="#c4b5fd" font-size="12" font-weight="700" letter-spacing="1.2">BUILDING</text>
+    <text x="338" y="229" fill="#e1e9f5" font-size="13">Full-Stack Projects + CI/CD</text>
+    <path d="M304 244H716" stroke="#25334a" />
+    <rect x="307" y="260" width="18" height="18" rx="5" fill="#00c8ff" fill-opacity=".12" stroke="#38d9ff" />
+    <text x="316" y="273" text-anchor="middle" fill="#7ddfff" font-family="monospace" font-size="10" font-weight="700">&gt;_</text>
+    <text x="338" y="273" fill="#7ddfff" font-size="12" font-weight="700" letter-spacing="1.2">STAY OPEN</text>
+    <text x="338" y="293" fill="#e1e9f5" font-size="13">Collabs, Freelance &amp; Dev Chats</text>
+  </g>
+  <path d="M304 314H716" stroke="#3d345f" />
+  <text x="304" y="329" fill="#b9c6da" font-family="monospace" font-size="11" letter-spacing="1">BUILD. BREAK. LEARN. REPEAT.</text>
+  <text x="716" y="329" text-anchor="end" fill="#9385e8" font-family="monospace" font-size="10">// KEEP SHIPPING</text>
+  <g clip-path="url(#screen-clip)" fill="none" stroke-linecap="square" pointer-events="none">
+    <path d="M410 97h28m198 183h42" stroke="#00c8ff" stroke-width="2" opacity="0">
+      <animate attributeName="stroke-dasharray" values="0 300;34 266;0 300" dur="3.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;.45;0;0" keyTimes="0;.26;.3;1" dur="3.8s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0;8 0;-4 0;0 0" dur="3.8s" repeatCount="indefinite" />
+    </path>
+    <path d="M18 162h48m-38 2h30M646 149h76m-57 2h43" stroke="#8b7bff" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" values="0;.35;.08;0" keyTimes="0;.52;.56;1" dur="4.4s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0;-7 0;3 0;0 0" dur="4.4s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>

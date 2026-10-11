@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 3" preserveAspectRatio="none" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 3" preserveAspectRatio="none" role="presentation" aria-hidden="true" focusable="false">
   <!-- Three thin signal strips stutter and flicker like analog data pulses. -->
   <path d="M0 .45h1200" fill="none" stroke="#3B82F6" stroke-width=".48" stroke-dasharray="0 42 64 1094" opacity=".82">
     <animate attributeName="stroke-dashoffset" values="1200;900;900;570;575;0" keyTimes="0;.22;.3;.57;.6;1" dur="3.2s" repeatCount="indefinite"/>
