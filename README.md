@@ -48,9 +48,9 @@ const wisdomFox = {
 
 <br clear="both" />
 
-<img align="right" src="assets/svg/glitch-plans.svg" width="32%" alt="Chibi developer planning AI apps, cloud infrastructure and DevOps; building full-stack projects with CI/CD; and staying open to collaborations, with an idea lightbulb glowing overhead." />
-
 ### 🤓 Fun Facts & Quirks
+
+<img align="right" src="assets/svg/glitch-plans.svg" width="45%" alt="Chibi developer planning AI apps, cloud infrastructure and DevOps; building full-stack projects with CI/CD; and staying open to collaborations, with an idea lightbulb glowing overhead." />
 
 - 🦊 Curious by nature; stubborn about my tech choices
 - 🧑‍🍳 Ramen cooking + code shipping = my kind of multitasking
@@ -68,62 +68,38 @@ const wisdomFox = {
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="25%" align="center">
-
       <h3>💻 Languages &amp; Markup</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript&perline=4" alt="HTML, CSS, JavaScript, TypeScript" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>🎨 Frontend &amp; UI</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,materialui,tailwindcss&perline=4" alt="React, Bootstrap, MUI, Tailwind" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>⚡ Backend &amp; APIs</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs,wordpress,postman&perline=3" alt="Express, WordPress, Postman" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>☁️ Cloud &amp; Databases</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,gcp,mongodb,postgresql&perline=4" alt="Azure, GCP, MongoDB, PostgreSQL" />
-
     </td>
   </tr>
   <tr>
     <td valign="top" width="25%" align="center">
-
       <h3>🔄 Source Control &amp; CI/CD</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions&perline=3" alt="Git, GitHub, GitHub Actions" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>📦 Containers &amp; OS</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux&perline=3" alt="Docker, Kubernetes, Linux" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>🤖 AI Developer Tools</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,githubcopilot&perline=2" alt="Claude, GitHub Copilot" />
-
     </td>
     <td valign="top" width="25%" align="center">
-
       <h3>🧩 Product &amp; Collaboration</h3>
-
       <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,confluence,jira&perline=3" alt="Figma, Confluence, Jira" />
-
     </td>
   </tr>
 </table>
